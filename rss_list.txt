@@ -1,0 +1,10 @@
+https://feeds.feedburner.com/TheHackersNews
+https://www.bleepingcomputer.com/feed/
+https://krebsonsecurity.com/feed/
+https://www.darkreading.com/rss.xml
+https://www.schneier.com/feed/atom/
+https://hnrss.org/frontpage
+https://feed.infoq.com/
+https://www.smashingmagazine.com/feed/
+https://css-tricks.com/feed/
+https://dev.to/feed
