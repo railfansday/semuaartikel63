@@ -4,232 +4,263 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 01:46:10 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:27:15 -0000</lastBuildDate>
     
         <item>
-            <title>Presentation: Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-237</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-237</guid>
-            <description>InfoQ Homepage
-Presentations
-Opening the Black Box: Critical Explainability for AI Agent Tool Selection with Kiji Inspector. It has been revealed that hannes Hapke shares how Dataiku’s open-source Kiji Inspector applies Sparse Autoencoders (SAEs) directly to decision tokens to ex...</description>
+            <title>Universal XSS in uBlock Origin from website-driven element picker</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-285</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-285</guid>
+            <description>Recent findings suggest that earlier this month I found a one-click universal XSS issue with uBlock Origin (the MV2 Firefox version, although a similar but less problematic issue also affected the MV3 version, uBO Lite), where a malicious website could trick the extension into ad...</description>
         </item>
         <item>
-            <title>Emacs Is My Browser</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-236</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-236</guid>
-            <description>Recent findings suggest that in my ever-increasing desire to use emacs as my sole computing environment, I have started to take browsing the web inside it far more seriously. Where I previously had thought EWW to be a niceity but far from capable, after using it for a few days it...</description>
+            <title>Qwen4-Max</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-284</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-284</guid>
+            <description>Article URL: https://qwen.ai/blog?id=qwen4-max
+Comments URL: https://news.ycombinator.com/item?id=50513215
+Points: 714
+# Comments: 348. Article URL: https://qwen.ai/blog?id=qwen4-max. Comments URL: https://news.ycombinator.com/item?id=50513215. Points: 714. # Comments: 348. → Rea...</description>
         </item>
         <item>
-            <title>Clice v1.0 Released: Welcome to Modern C++</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-235</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-235</guid>
-            <description>clice recently hit 1,000 commits, a special milestone for the project. Since July 19, 2026, clice has been shipping nightly builds and going through roughly four months of alpha testing, with a huge number of bugs fixed thanks to real-world feedback from early people. Over the sa...</description>
+            <title>How to make almost anything</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-283</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-283</guid>
+            <description>Article URL: https://pub.cba.mit.edu/863.26/site/
+Comments URL: https://news.ycombinator.com/item?id=50514470
+Points: 548
+# Comments: 98. Article URL: https://pub.cba.mit.edu/863.26/site/. Comments URL: https://news.ycombinator.com/item?id=50514470. Points: 548. # Comments: 98. →...</description>
         </item>
         <item>
-            <title>Latest Update: 'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-234</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-234</guid>
-            <description>Recent findings suggest that lemmy and Iggy, two carrion crows, are no strangers to a psychology lab. As study participants, they have helped scientists prove that birds can use tools to forage, learn numbers and count objects, and provided other insights into the ways birds thin...</description>
+            <title>Latest Update: “…and the proof is checked in Lean”</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-282</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-282</guid>
+            <description>Article URL: https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/
+Comments URL: https://news.ycombinator.com/item?id=50515058
+Points: 127
+# Comments: 52. Article URL: https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/. Comment...</description>
         </item>
         <item>
-            <title>Technical Debt is Social; it is the Price of Learning by Doing</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-233</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-233</guid>
+            <title>Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-281</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-281</guid>
+            <description>WINUDF reads and writes UDF (versions 1.02 to 2.60), the file system of DVDs, Blu-ray
+discs, packet-written CDs and UDF-formatted USB sticks and disks: WINUDF.EXE gives DOS and
+Windows 1.0x–3.11 drive letters for them, WINUDF.VXD is a file system driver for Windows
+95 / 98 / ME w...</description>
+        </item>
+        <item>
+            <title>Latest Update: It's always DNS, so why are we running our own?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-280</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-280</guid>
+            <description>This will be a rollercoaster story on how we ended up replacing Route53 and running our own authoritative DNS server. Industry observers note that at some point, we decided we should be able to provide unlimited basins to our clients. Basins are a core namespace construct on S2 a...</description>
+        </item>
+        <item>
+            <title>Coffeehouses and the Rise of Science [pdf]</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-279</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-279</guid>
+            <description>Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf
+Comments URL: https://news.ycombinator.com/item?id=50516245
+Points: 117
+# Comments: 74. Article URL: https://www.monirbounadi.com/Bounadi_JMP.pdf. Comments URL: https://news.ycombinator.com/item?id=50516245. Points: 117. #...</description>
+        </item>
+        <item>
+            <title>Alpine Linux Users Urged to Patch OpenSSH Authentication Flaw</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-278</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-278</guid>
             <description>InfoQ Homepage
 News
-Technical Debt is Social; it is the Price of Learning by Doing. Nov 12, 2026
+Alpine Linux Owners Urged to Patch OpenSSH Authentication Flaw. Nov 16, 2026
+								
+								
+								
+									
+									4
+									min read. The flaw comes from the way OpenSSH checks passwords when musl handles the underlying crypt() call. On an affected s...</description>
+        </item>
+        <item>
+            <title>Uno Platform 7.0 Adds WebGPU Backend, Apple TV and Reactor Support, and Retires Native Rendering</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-277</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-277</guid>
+            <description>InfoQ Homepage
+News
+Uno Platform 7.0 Adds WebGPU Backend, Apple TV and Reactor Support, and Retires Native Rendering. Nov 16, 2026
 								
 								
 								
 									
 									3
-									min read. Industry observers note that technical debt is not necessarily a sign of poor engineering. It can be the price of le...</description>
+									min read. The Uno Platform team released Uno Platform 7.0, which unifies rendering on SkiaSh...</description>
         </item>
         <item>
-            <title>A short explainer on how El Niño works [video]</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-232</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-232</guid>
-            <description>Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8
-Comments URL: https://news.ycombinator.com/item?id=50509308
-Points: 174
-# Comments: 76. Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8. Comments URL: https://news.ycombinator.com/item?id=50509308. Points: 174. # C...</description>
+            <title>AWS Nitro Sandboxes Put Each EKS Pod in Its Own MicroVM with One RuntimeClass Field</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-276</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-276</guid>
+            <description>InfoQ Homepage
+News
+AWS Nitro Sandboxes Put Each EKS Pod in Its Own MicroVM with One RuntimeClass Field. Nov 16, 2026
+								
+								
+								
+									
+									4
+									min read. According to recent reports, AWS has introduced Nitro Sandboxes, which run an opted-in Kubernet...</description>
         </item>
         <item>
-            <title>Breaking: Dropbox Shares How its In-House Cookie Auditor Tests Consent Behaviour across 200+ Web Surfaces</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-231</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-231</guid>
-            <description>Nov 13, 2026
+            <title>GitHub Rebuilds the Copilot App's Diff Surface to Open Million-Line Pull Requests Without Jank</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-275</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-275</guid>
+            <description>InfoQ Homepage
+News
+GitHub Rebuilds the Copilot App's Diff Surface to Open Million-Line Pull Requests Without Jank. Nov 16, 2026
 								
 								
 								
 									
 									2
-									min read. Dropbox built what it calls "an auditor for our auditor," a companion URL detector that uses traffic data to find every live Dropbox web surface. Billions of visit records are filtered down to a manag...</description>
+									min read. GitHub engineering has published a detailed account of how it rebuilt the diff surfa...</description>
         </item>
         <item>
-            <title>Breaking: Podcast: Doing The Right Thing: Accountability In The Age Of AI Coding Summary</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-230</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-230</guid>
-            <description>InfoQ Homepage
-Podcasts
-Doing The Right Thing: Accountability In The Age Of AI Coding Summary. In this podcast, Shane Hastie, Lead Editor for Culture &amp; Methods, spoke to Hugo Venturini about who is accountable when AI writes the code, how AI is reshaping code review and tradition...</description>
-        </item>
-        <item>
-            <title>SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-229</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-229</guid>
-            <description>Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the We...</description>
-        </item>
-        <item>
-            <title>Industry News: Russian Turla Hackers Use Fresh Cereal Malware to Steal Emails From Government Exchange Servers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-228</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-228</guid>
-            <description>The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET...</description>
-        </item>
-        <item>
-            <title>Breaking: Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-227</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-227</guid>
-            <description>Industry observers note that an iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple noted yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages se...</description>
-        </item>
-        <item>
-            <title>Beyond the Alert: The Case for Rich Network Data</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-226</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-226</guid>
-            <description>At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy...</description>
-        </item>
-        <item>
-            <title>Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-225</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-225</guid>
-            <description>An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yest...</description>
-        </item>
-        <item>
-            <title>Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-224</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-224</guid>
-            <description>In a recent development, eric is a Creative Technologist at ProtoPie, where he pushes the boundaries of no-code prototyping. With a background in FinTech UX design, he brings firsthand …
-More about
-Eric ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to rece...</description>
-        </item>
-        <item>
-            <title>Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-223</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-223</guid>
-            <description>Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month  uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a "limited set of accounts.". ...</description>
-        </item>
-        <item>
-            <title>Presentation: The Influence Toolkit</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-222</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-222</guid>
-            <description>InfoQ Homepage
-Presentations
-The Influence Toolkit. Recent findings suggest that henry Wilson shares actionable tools from the BBC Sounds re-architecture to help senior engineering leaders drive technical strategy. He discusses building buy-in, navigating active resistors, using ...</description>
-        </item>
-        <item>
-            <title>Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-221</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-221</guid>
-            <description>According to recent reports, durgesh Rajubhai Pawar is a freelance developer dedicated to building high-performance, accessible web applications. He specializes in orchestrating complex …
-More about
-Durgesh ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. The HTTP Arch...</description>
-        </item>
-        <item>
-            <title>Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-220</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-220</guid>
-            <description>The threat actor known as Blind Eagle has resurfaced with a latest campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. "The campaign us...</description>
-        </item>
-        <item>
-            <title>June Is For Exploring (2026 Wallpapers Edition)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-219</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-219</guid>
-            <description>According to recent reports, cosima has been an editor at SmashingMag since 2013. Whenever she’s not writing articles for the weekly Smashing Newsletter, she’s probably working on a …
-More about
-Cosima ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Everyone has a cre...</description>
-        </item>
-        <item>
-            <title>Latest Update: Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-218</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-218</guid>
-            <description>Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. In a recent development, the activity, observed by Huntress in early October 2026, involves the exploitation of a chain comp...</description>
-        </item>
-        <item>
-            <title>Tech Report: How To Make Your Design System AI-Ready</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-217</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-217</guid>
-            <description>Sources indicate that vitaly Friedman loves beautiful content and doesn’t like to give in easily. When he is not writing, he’s most probably running front-end &amp; UX …
-More about
-Vitaly ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Recent findings suggest that AI-gene...</description>
-        </item>
-        <item>
-            <title>Breaking: Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-216</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-216</guid>
-            <description>Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, ...</description>
-        </item>
-        <item>
-            <title>The Benefits Of Cognitive Inclusion In UX Research</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-215</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-215</guid>
-            <description>Sources indicate that kate Kalcevich has over 20 years of experience turning accessibility into a driver of innovation and growth. As VP of Innovation at Fable, she oversees a …
-More about
-Kate ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to recent report...</description>
-        </item>
-        <item>
-            <title>Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-214</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-214</guid>
-            <description>French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it noted is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062. Recent findings suggest ...</description>
-        </item>
-        <item>
-            <title>The Impact Of Humanoid Robots On Humanity</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-213</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-213</guid>
-            <description>With over 20 years experience in the field of user centered design, and a background in web design and development, Carrie has worked in startups through to …
-More about
-Carrie ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. For decades, science fiction has cushioned ...</description>
-        </item>
-        <item>
-            <title>Latest Update: SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Consumers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-212</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-212</guid>
-            <description>An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidenti...</description>
-        </item>
-        <item>
-            <title>Designing With Uncertainty: How AI Supercharges Probabilistic Thinking</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-211</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-211</guid>
-            <description>Pratik Joglekar is a Senior Product Designer working with HubSpot. He loves to solve complex and challenging UX problems. When not working, he can be found at …
-More about
-Pratik ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. In 2024, an Air Canada customer asked a c...</description>
-        </item>
-        <item>
-            <title>Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-210</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-210</guid>
-            <description>A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2....</description>
-        </item>
-        <item>
-            <title>Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-209</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-209</guid>
-            <description>WDR. 46 Sek.. Verfügbar bis 15.11.2028. According to recent reports, wegen der Microsoft-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt. Recent findings suggest that diesem Problem waren wir alle ausgesetzt: Am Freit...</description>
-        </item>
-        <item>
-            <title>Netflix Turns Operational Data into a Knowledge Graph for AI-Driven Observability</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-208</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-208</guid>
+            <title>AWS Open-Sources Emulator for Local Testing of 200+ Services by Coding Agents</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-274</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-274</guid>
             <description>InfoQ Homepage
 News
-Netflix Turns Operational Data into a Knowledge Graph for AI-Driven Observability. Nov 13, 2026
+AWS Open-Sources Emulator for Local Testing of 200+ Services by Coding Agents. Nov 16, 2026
 								
 								
 								
 									
-									3
-									min read. Netflix is developing an ontology-driven knowledge graph to accelerate production investigations ...</description>
+									2
+									min read. AWS has released AWS Emulator, a local program that serves an HTTPS endpoint for the public APIs of m...</description>
+        </item>
+        <item>
+            <title>The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-273</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-273</guid>
+            <description>According to recent reports, two months ago, I got a new laptop. It’s a Lenovo Thinkpad z61t. I actually ordered a t61, but I accidentally got the z61 instead — and, I actually really like it. It’s quite similar to the t61, but a little smaller and lighter. I was worried that the...</description>
+        </item>
+        <item>
+            <title>Microsoft blames monster email outage on software defect introduced in July fix</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-272</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-272</guid>
+            <description>Summer code change caused a Fall fail – frantic engineers had to patch the patch instead of rolling back. Microsoft has blamed last week's epic outage on a change it made in July that lurked in the network gateway servers until a surge in load and a drop in capacity triggered the...</description>
+        </item>
+        <item>
+            <title>Podcast: Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-271</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-271</guid>
+            <description>InfoQ Homepage
+Podcasts
+Getting CRA Compliant Hardens the Code and Gets Your Company Closer to Digital Sovereignty. In this episode, Christopher "CRob" Robinson, CTO of OpenSSF, Akrites and Chief Security Architect of the Linux Foundation, explores the state of software supply ch...</description>
+        </item>
+        <item>
+            <title>Google's A2UI in a bank app: the AI never sees the balance</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-270</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-270</guid>
+            <description>A customer types "show my spending in September" and a dashboard appears that nobody designed for that question. That is generative UI, and this month it got a stable protocol: on 11 November Google released A2UI 1.0, "the first stable version of our open protocol for generative ...</description>
+        </item>
+        <item>
+            <title>Tech Report: How Does a Model Actually Learn?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-269</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-269</guid>
+            <description>Originally published on wrightfunctions.com, where the demos are live. In the first post of this series, I noted a model is a function whose inner numbers are learned from examples instead of written by hand. That's true, but it skips the interesting part. How does a pile of numb...</description>
+        </item>
+        <item>
+            <title>Tech Report: BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-268</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-268</guid>
+            <description>An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. In a recent development, the activity, documented by Kaspersky's ICS CERT team afte...</description>
+        </item>
+        <item>
+            <title>Article: Governed Autonomous Intelligence for Mission-Critical Utility</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-267</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-267</guid>
+            <description>InfoQ Homepage
+Articles
+Governed Autonomous Intelligence for Mission-Critical Utility. Nov 16, 2026
+								
+								
+								
+									
+									18
+									min read. Utility operations teams - the IT and platform teams responsible for supporting enterprise applications, integra...</description>
+        </item>
+        <item>
+            <title>Amazon's Discount Illusion: 1 in 3 "Deals" Offered No Savings– 1 in 10 Cost More</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-266</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-266</guid>
+            <description>Industry observers note that A blockbuster fresh investigation from Groundwork Collaborative exposes how Amazon shoppers may be getting hosed during the retail giant’s much-touted Black Friday and Cyber Monday sale events. The report, Deal or Decoy? Amazon’s Deceptive Discounts, ...</description>
+        </item>
+        <item>
+            <title>Immich App Stops Uploading: The Server Must Match the Mobile App Version</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-265</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-265</guid>
+            <description>Originally published at woitzik.dev. In a recent development, the Immich mobile app on my phone stopped uploading photos. Selecting photos and starting a backup did nothing. On the server side everything looked healthy: all four pods Running, storage with plenty of room, ingress ...</description>
+        </item>
+        <item>
+            <title>Latest Update: What the fuck is w2rt6byl5nf1opmc-a.com?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-264</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-264</guid>
+            <description>Not a rhetorical question, I don't know the answer either. It has been revealed that iâm normal. This means I have a backlink monitor for this website. By pure chance, I was showcasing this to a friend when, suddenly, I got a upcoming backlink:. I tap in,1 forgetting that this ...</description>
+        </item>
+        <item>
+            <title>Tech Report: A PDF table can keep every number and still break retrieval: an audit workflow</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-263</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-263</guid>
+            <description>Industry observers note that A table can survive PDF extraction with every number intact and still become misleading. If the column heading falls off a page or gets attached to the wrong row, a search result may return a plausible value with the wrong unit or reporting period. Ac...</description>
+        </item>
+        <item>
+            <title>Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-262</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-262</guid>
+            <description>Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers...</description>
+        </item>
+        <item>
+            <title>GitHub Copilot Credit Cliff: What the Reset Changed</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-261</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-261</guid>
+            <description>Sources indicate that on June 1, 2026, GitHub Copilot rewired how every enterprise pays for it. Premium request units are gone. In their place is a token-metered system called GitHub AI Credits, where one credit equals one cent and every interaction draws down a monthly pool base...</description>
+        </item>
+        <item>
+            <title>Microsoft pushes Windows emergency updates to fix activation failures</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-260</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-260</guid>
+            <description>Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]. → Read original article...</description>
+        </item>
+        <item>
+            <title>Show HN: Coral – Open-source gateway where agents write their own tools</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-259</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-259</guid>
+            <description>Coral is an open-source, self-hosted gateway that sits between your agents and
+the systems they work on. Agents call tools by writing short TypeScript
+programs, and save the ones that work as custom tools to reuse. Coral checks
+every call against your policy before it adds creden...</description>
+        </item>
+        <item>
+            <title>Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-258</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-258</guid>
+            <description>InfoQ Homepage
+News
+Airbnb Introduces CASTLE for Training Natural Language Search Models with Synthetic Data. Nov 16, 2026
+								
+								
+								
+									
+									2
+									min read. It has been revealed that airbnb researchers have introduced CASTLE, a framework designed ...</description>
+        </item>
+        <item>
+            <title>Newly introduced NoisyTCP vulnerability lets attackers crash Linux servers</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-257</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-257</guid>
+            <description>An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]. → Read original article...</description>
+        </item>
+        <item>
+            <title>One Coding Plan, Two CLIs: Configure Claude Code and Codex Without Credential Collisions</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-256</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-256</guid>
+            <description>If you use both Claude Code and Codex CLI but want one bounded API budget, this guide demonstrates the minimum configuration for each client, how to keep their credentials from colliding, and how to verify the setup before either agent reads a large repository. AceDataCloud Codin...</description>
         </item>
 </channel>
 </rss>
