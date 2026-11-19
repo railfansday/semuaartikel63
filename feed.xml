@@ -4,218 +4,199 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 15:28:00 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:08:59 -0000</lastBuildDate>
     
         <item>
-            <title>Harvard researchers find AI coding agents shifted the bottleneck to code review</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-473</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-473</guid>
-            <description>Editor’s Note: Engineers at firms that adopted AI coding agents added about 30 percent more code, yet finished work did not measurably rise and getting code through review took 49 percent longer, according to a working paper by Harvard Ph.D. candidates Fiona Chen and James Stratt...</description>
+            <title>Tech Report: Unauthenticated remote code execution in Nginx</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-516</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-516</guid>
+            <description>Wiz Research, Ikotas Labs, Metnir, Rapid7, and Xint independently uncovered two critical remote code execution vulnerabilities in NGINX, software used to receive and route traffic to production applications and APIs. In a recent development, NGINX is a common default for the fron...</description>
         </item>
         <item>
-            <title>Google's AI answers reducing search traffic by 40%</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-472</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-472</guid>
-            <description>Google's AI answers are taking clicks from websites in the search results. In a randomized experiment, researchers hid AI Overviews from some US desktop consumers. Comparing them with users who still saw Overviews shows that an Overview cuts clicks to outside websites by about 40...</description>
+            <title>Inside Deutsche Bank</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-515</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-515</guid>
+            <description>It has been revealed that A major global investigation revealing the inner workings of the financial giant. The leak of 15+ million files lays bare the bank's flawed culture, systemic blind spots and pursuit of profit over compliance. The Inside Deutsche Bank files span some of t...</description>
         </item>
         <item>
-            <title>ID.me terms required for IRS sign-in</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-471</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-471</guid>
-            <description>Login.gov, which the U.S. government maintains, also works for IRS sign-in,[2] &amp; the IRS's Direct Pay service takes bank-account tax payments with "No sign-in required".[6] ID.me replaced the traditional login for Treasury's savings-bond site TreasuryDirect on October 28, 2026,[7...</description>
+            <title>Latest Update: AI agents ask better questions than KPMG accountants in audit trial</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-514</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-514</guid>
+            <description>LONDON, November 18, 2026 — Artificial intelligence has taken another significant step into the world of professional services after KPMG revealed that AI agents examining the accounts of a major UK-listed manufacturer sometimes investigated financial problems more deeply and ask...</description>
         </item>
         <item>
-            <title>Claude was trained on protein sequences at scale</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-470</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-470</guid>
-            <description>A next-amino-acid test on little-studied proteins finds that the latest Claude models were trained on protein sequences at scale. Other frontier models show no sign of it. The latest Claude models were trained on protein sequences, at scale. Give Claude Fable 5.2 or Claude Opus 5...</description>
+            <title>Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-513</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-513</guid>
+            <description>Article URL: https://exitpath-ruddy.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=50547980
+Points: 144
+# Comments: 42. Article URL: https://exitpath-ruddy.vercel.app/. Comments URL: https://news.ycombinator.com/item?id=50547980. Points: 144. # Comments: 42. → Rea...</description>
         </item>
         <item>
-            <title>Breaking: Why is Gemini 4 Carbon taking so long?</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-469</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-469</guid>
-            <description>While benchmarking Gemini 4 Carbon on one of our private evals, we found something surprising: it spent close to an hour completing tasks that routinely took Opus and Astra only a few minutes:. Left is faster; lower is cheaper. Turns out we weren't alone in noticing this. Industr...</description>
+            <title>KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-512</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-512</guid>
+            <description>Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312
+Comments URL: https://news.ycombinator.com/item?id=50548004
+Points: 165
+# Comments: 113. Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312. Comments URL: https://news.ycombinator.com/item?id=50548004. Points:...</description>
         </item>
         <item>
-            <title>Breaking: AI is killing All About Berlin</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-468</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-468</guid>
-            <description>Recent findings suggest that this is the traffic to All About Berlin, the website that I run since 2017, and live from since 2020. After 7 years of growth, it has lost 70% 75% of its traffic to Google AI Overviews. When you Googled something, you used to get a link to my website....</description>
+            <title>Latest Update: Seven latest models at scalable price-performance</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-511</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-511</guid>
+            <description>MAI Licensed Weights: Frontier performance you control → Read original article...</description>
         </item>
         <item>
-            <title>Energy-Based Reasoners: 385x more efficient inference</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-467</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-467</guid>
-            <description>Industry observers note that looping is a powerful inductive bias for reasoning. By repeatedly iterating a recurrent block, looped models can scale their effective depth and enable multi-step reasoning in latent space. However, existing looped models are not inherently guided by ...</description>
+            <title>Show HN: Take Voyager 1 apart, down to a single memory chip</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-510</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-510</guid>
+            <description>Look aroundWatch againBy Raj ShekharIf you enjoyed it, buy me a coffee. Two spacecraft launched in 1977, still talking to Earth from interstellar space. This is where they are right now. Watch the journeyWatch the fixReplay from launchLook around. → Read original article...</description>
         </item>
         <item>
-            <title>Breaking: Show HN: Type Fighter 2</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-466</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-466</guid>
-            <description>Recent findings suggest that type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard. Comments URL: https://news.ycombinator.com/item?id=50544821
-Points: 54
-# Com...</description>
+            <title>Latest Update: Show HN: Mastra Factory, the open-source software factory we use to build Mastra</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-509</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-509</guid>
+            <description>Industry observers note that hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073. It got a few hundred upvotes; a couple of weeks later our downloads had do...</description>
         </item>
         <item>
-            <title>Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-465</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-465</guid>
-            <description>Industry observers note that on Tuesday, November 24, 2026, Quad9 will stop answering DNS queries from France. Quad9 is the Swiss non-profit behind the free 9.9.9.9 resolver, which blocks malware and phishing domains. It is not leaving because of costs or lack of customers. It is...</description>
+            <title>Latest Update: CrossPoint Reader</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-508</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-508</guid>
+            <description>Read EPUBs with justified text, language-aware hyphenation, and working footnotes. CrossPoint also renders drop caps, small caps, and illustrations. → Read original article...</description>
         </item>
         <item>
-            <title>Industry News: Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-464</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-464</guid>
-            <description>The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence G...</description>
+            <title>Advancing chip design with OpenAI models</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-507</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-507</guid>
+            <description>Article URL: https://openai.com/index/advancing-chip-design-with-our-models/
+Comments URL: https://news.ycombinator.com/item?id=50549493
+Points: 147
+# Comments: 88. Article URL: https://openai.com/index/advancing-chip-design-with-our-models/. Comments URL: https://news.ycombinato...</description>
         </item>
         <item>
-            <title>Latest Update: Yelp Migrates Cassandra to EKS by Moving EBS Volumes</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-463</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-463</guid>
-            <description>InfoQ Homepage
-News
-Yelp Migrates Cassandra to EKS by Moving EBS Volumes. Nov 18, 2026
-								
-								
-								
-									
-									4
-									min read. Recent findings suggest that yelp has moved its Cassandra fleet from legacy self-managed Kubernetes clusters to Amazon EKS by ...</description>
+            <title>The Magic of Partial Evaluation</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-506</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-506</guid>
+            <description>According to recent reports, there are certain ideas in software that are simply beautiful. It doesn't matter if they have any practical use. It doesn't matter that you will never convince your coworkers to consider them. There is just something captivating about the way some com...</description>
         </item>
         <item>
-            <title>Can Peer Review Survive AI-Generated Text? [pdf]</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-462</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-462</guid>
-            <description>Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf
-Comments URL: https://news.ycombinator.com/item?id=50546312
-Points: 46
-# Comments: 42. Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf. Comments URL: https://news.ycombinator.com/item?id=50546312. Poi...</description>
+            <title>Genie 4 is now available</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-505</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-505</guid>
+            <description>Group Product Manager, Google DeepMind. Group Product Manager, Google Labs. Earlier this year we introduced Project Genie, an experimental research prototype that lets you generate and explore interactive worlds. Early testers told us they wanted deeper control over what happens ...</description>
         </item>
         <item>
-            <title>Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-461</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-461</guid>
-            <description>Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 3...</description>
+            <title>DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-504</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-504</guid>
+            <description>It has been revealed that today we are releasing DaisyRose-27B, RadixArk’s first model, built on Qwen3.8-27B and trained with reinforcement learning using Miles. We trained it on long-horizon agent tasks with sessions up to 1M tokens, with just 1,200 curated tasks in 18 days on 1...</description>
         </item>
         <item>
-            <title>Industry News: AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-460</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-460</guid>
-            <description>InfoQ Homepage
-News
-AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account. Nov 18, 2026
-								
-								
-								
-									
-									4
-									min read. Recent findings suggest that AWS has published a technical walkthrough of tunnel endpoints, a VPC endpo...</description>
+            <title>Sexp Matrix</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-503</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-503</guid>
+            <description>Article URL: https://lisper.cc/ideas/entangle.html
+Comments URL: https://news.ycombinator.com/item?id=50551359
+Points: 30
+# Comments: 10. Article URL: https://lisper.cc/ideas/entangle.html. Comments URL: https://news.ycombinator.com/item?id=50551359. Points: 30. # Comments: 10. →...</description>
         </item>
         <item>
-            <title>CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-459</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-459</guid>
-            <description>Industry observers note that the U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of o...</description>
+            <title>Search Browser – Minimalist WebKit browser with Chrome extension support</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-502</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-502</guid>
+            <description>In a recent development, A browser for the Mac by Office Commun, a design studio in Paris. Tabs, an address field, history, passwords, downloads — and as little around the page as we could manage. About 7 MB. → Read original article...</description>
         </item>
         <item>
-            <title>Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-458</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-458</guid>
-            <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing rep...</description>
+            <title>Gemini 4 Neon</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-501</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-501</guid>
+            <description>Bringing frontier-level intelligence with fast end-to-end task completion  across complex software engineering, knowledge work, and science workflows. SVP, Google DeepMind and Chief AI Architect, Google. Your browser does not support the audio element. Today, we’re introducing Ge...</description>
         </item>
         <item>
-            <title>Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-457</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-457</guid>
-            <description>InfoQ Homepage
-News
-Vercel Releases UI SDK for Agents to Compose UI from Reusable Behaviors. Nov 18, 2026
-								
-								
-								
-									
-									2
-									min read. Vercel has released UI SDK, an open-source TypeScript library that treats keyboard navigation, focus, selec...</description>
+            <title>Tech Report: GTA6-like as a 942Kb UEFI bootable image</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-500</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-500</guid>
+            <description>A GTA style game set in the real Miami that boots straight from UEFI, no Windows under it. The whole game is game.efi, 964,608 bytes, and the CPU draws every pixel. Made it for a video on my channel: https://www.youtube.com/@CodingWalaXD. It has been revealed that build needs cla...</description>
         </item>
         <item>
-            <title>Who owns your AI agent when something goes wrong?</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-456</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-456</guid>
-            <description>Recent findings suggest that when something goes wrong with an AI agent, the first question is simple: who owns it? In many companies the answer is "the team." That sounds like shared responsibility, but in practice it means no single person is watching the agent, and no single p...</description>
+            <title>LLM Assisted Reverse Engineering</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-499</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-499</guid>
+            <description>Recent findings suggest that I have been hacking both hardware and software for 2 decades. Previously manually. But in 2026 with the help of AIs the proccess is greatly sped up. Below I will describe my proccess briefly or how I do it. Tools which I mostly use are these:. Recent ...</description>
         </item>
         <item>
-            <title>Breaking: Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-455</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-455</guid>
-            <description>AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with bo...</description>
+            <title>Why educational system is broken</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-498</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-498</guid>
+            <description>Current education system focuses on wrong things, and is subject to traditional practices that were developed due to need of scaling, instead of due to improvement of the system itself. In a recent development, the core glitch is that school is not actually focusing on brain deve...</description>
         </item>
         <item>
-            <title>Tech Report: A regra dos três modelos: por que um agente não audita a si mesmo</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-454</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-454</guid>
-            <description>Colocar um agente de IA para revisar o próprio código é como pedir ao autor para encontrar os próprios erros de digitação. Ele lê o que pretendia escrever, não o que escreveu. Sources indicate that no começo, eu pedia ao mesmo agente para codar e depois conferir se os critérios d...</description>
+            <title>We Need Smart People Who Give a Shit</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-497</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-497</guid>
+            <description>Tuesday, November 17th, 2026 @ 7:01 PM PST. Industry observers note that something I learned a long time ago, something that's been proven to me time and again, is that the world is held together by smart people who give a shit. This truth always comes into stark focus when I lea...</description>
         </item>
         <item>
-            <title>Latest Update: A GPT-6.2 Sol cache-layout finding in Hermes: sandbox result, not measured savings</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-453</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-453</guid>
-            <description>In a sandbox test of GPT-6.2 Sol through the Responses API / Codex OAuth route, a roughly 12.3K-token synthetic prompt reported only 0–45% cache coverage on later requests when the system prompt was in top-level instructions. Moving that same prompt to the first input item as a d...</description>
+            <title>How to Fix Presigned Downloads: Filename, Content-Type, and Content-Disposition</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-496</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-496</guid>
+            <description>Industry observers note that large receipt exports change the answer. A 20 KB CSV that opens in a tab is annoying; a 2 GB PDF that opens in a tab can pin a browser process and make a support ticket look like a storage outage. In a recent development, TL;DR: set Content-Type and C...</description>
         </item>
         <item>
-            <title>Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-452</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-452</guid>
-            <description>A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, notes Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the v...</description>
+            <title>Four ways to estimate a development project (and what each is good for)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-495</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-495</guid>
+            <description>Every estimate argument starts the same way: "it's just a simple app". Then three weeks later the same app has a payment provider, an admin panel, two integrations and a data migration. Recent findings suggest that estimation is not guessing. It is a process with a few known meth...</description>
         </item>
         <item>
-            <title>Stripe webhook events arrive out of order: stop depending on sequence</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-451</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-451</guid>
-            <description>A handler that works in testing can break in production because two events arrive in a different order than they happened. A customer pays, and the invoice.paid handler runs before anything has recorded the subscription it belongs to. The row doesn't exist yet, the revision match...</description>
+            <title>The brief is the most expensive document in software</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-494</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-494</guid>
+            <description>The most expensive document in software is the one nobody wrote: the brief. A brief is a short description of the task and the context. Not a spec, not a prototype — just enough to explain what is needed and why. It takes an evening, and it saves weeks, because every misunderstan...</description>
         </item>
         <item>
-            <title>Energy drinks linked to 11 times more reports of cardiac arrest</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-450</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-450</guid>
-            <description>Sources indicate that energy drinks and stimulant supplements are raising fresh concerns about heart health after researchers discovered a striking pattern in reports of serious cardiovascular emergencies. Products containing caffeine and other stimulants appeared far more freque...</description>
+            <title>A local AI agent whose citations cannot be invented</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-493</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-493</guid>
+            <description>Industry observers note that most RAG demos look great until the model invents a page number. This one refuses instead. In a recent development, I built a local-first agent that answers questions about contracts and invoices. It runs entirely on your laptop — no API key, no cloud...</description>
         </item>
         <item>
-            <title>The Upper Hand Method - a receipts system for working with an AI</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-449</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-449</guid>
-            <description>The Upper Hand Method is a free blueprint (CC BY 4.0) for working with an AI assistant on things that matter — decisions, money, commitments — without losing the ability to check its work, or your own. It's a folder of plain-text files and five mechanisms:. According to recent re...</description>
+            <title>Industry News: GetDevEd - open source system design platform</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-492</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-492</guid>
+            <description>I built something called getdeved, basically a playground to learn system design, very easily, step by step, you can check it out here: https://getdeved.github.io/#/. No I don't earn anything, hosted free, opensource - yes will remain that way :). → Read original article...</description>
         </item>
         <item>
-            <title>Presentation: Behind Booking.com's AI Evolution: The Unpolished Story</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-448</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-448</guid>
-            <description>InfoQ Homepage
-Presentations
-Behind Booking.com's AI Evolution: The Unpolished Story. Jabez Eliezer Manuel discusses the 20-year evolution of Booking.com’s data management and ML platforms. He explains how they scaled MySQL topologies, sunset Hadoop for cloud architecture, and bu...</description>
+            <title>Four AWS defaults that quietly inflate your bill (priced for Paris, Frankfurt, the UAE and Bahrain)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-491</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-491</guid>
+            <description>It has been revealed that most expensive AWS bills I review are not caused by one big mistake. They come from defaults that nobody questioned: a NAT Gateway in the data path, microservices that talk across Availability Zones, batch jobs kept On-Demand, a DynamoDB table provisione...</description>
         </item>
         <item>
-            <title>Tech Report: AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-447</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-447</guid>
-            <description>Choosing an AI pentesting vendor? Get 15 questions, red flags, and a scorecard to test what vendors deliver, not just what they demo. Download the free checklist →. For the first time, Google's Threat Intelligence Group identified a threat actor using a zero-day exploit it believ...</description>
+            <title>Industry News: An MVP is not version 1 with fewer features</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-490</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-490</guid>
+            <description>Industry observers note that an MVP is not "version 1 with fewer features". It is the smallest thing that answers one question: will anyone use this? Most teams build the opposite. They start with the billing system, an admin panel, three integrations and a design system — and on...</description>
         </item>
         <item>
-            <title>Latest Update: Give Claude Code a Memory: claude-mem Remembers Between Sessions</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-446</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-446</guid>
-            <description>claude-mem is a free, open-source tool that gives your coding agent a memory across sessions. A coding agent is a program that writes and edits code for you from plain prompts. Each upcoming session starts blank. The agent re-reads the same files, re-asks the same questions, and ...</description>
+            <title>Why I Think Privacy-First Personal AI Is Worth Watching</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-489</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-489</guid>
+            <description>The pattern I'm seeing in AI agents lately is that they keep asking for more access to your data, but nobody's really thinking about who controls that model of you. When an AI knows your relationships, habits, and priorities, that's essentially a digital twin. The data involved i...</description>
         </item>
         <item>
-            <title>Repurposing long recordings: what it takes to get 3–5 usable vertical clips</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-445</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-445</guid>
-            <description>In a recent development, most creators already own the raw material for short-form video. It is sitting in a webinar recording, a podcast episode, or a 40-minute interview. The hard part is not filming more. It is finding the eight or ten seconds inside forty minutes that will ac...</description>
+            <title>Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-488</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-488</guid>
+            <description>A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF). The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticate...</description>
         </item>
         <item>
-            <title>'Human' Is Cambridge Dictionary's Word of the Year 2026</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-444</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-444</guid>
-            <description>The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026. The year has been defined by global debates on what it means to be human when AI is blurring the boundaries between people and machines. 'Human' is defined in the Cambridge Dictionary as ‘having the qualitie...</description>
+            <title>PWA vs native app: when a web app is the right choice</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-487</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-487</guid>
+            <description>Every client who states "we need an app" usually means one of three things: a website, a PWA, or a native app. The cheapest wrong decision is to build a native app before validating demand. Here is how we decide, and what it costs. Industry observers note that A PWA (progressive ...</description>
         </item>
 </channel>
 </rss>
