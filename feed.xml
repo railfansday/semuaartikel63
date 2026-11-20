@@ -4,255 +4,223 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:30:47 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:14:09 -0000</lastBuildDate>
     
         <item>
-            <title>Tech Report: How to Make the Ink Used to Write Hamlet and the Declaration of Independence</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-608</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-608</guid>
-            <description>Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/
-Comments URL: https://news.ycombinator.com/item?id=50561170
-Points: 68
-# Comments: 28. Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-...</description>
+            <title>Breaking: Vint Cerf on why TCP/IP was never patented</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-659</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-659</guid>
+            <description>EXTRA, extra! Today I’m launching Future Stories, my own podcast about technology, science and the way we live. The first guest is Vint Cerf. He co-designed TCP/IP with Bob Kahn in the 1970s, the rules that let the world’s networks talk to each other. Interviewing him was on my b...</description>
         </item>
         <item>
-            <title>Industry News: Pete warden on local AI, open models, voice interfaces, the future of hardware</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-607</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-607</guid>
-            <description>Article URL: https://thedataexchange.media/pete-warden-moonshine/
-Comments URL: https://news.ycombinator.com/item?id=50561508
-Points: 207
-# Comments: 189. Article URL: https://thedataexchange.media/pete-warden-moonshine/. Comments URL: https://news.ycombinator.com/item?id=5056150...</description>
+            <title>Tech Report: OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-658</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-658</guid>
+            <description>In a recent development, this fixes "Buffer overflow in EVP_EncodeBlock()" (CVE-2026-121481) by returning -1 for invalid inputs to EVP_EncodeBlock(): NULL input or output buffers, negative lengths, and lengths for which the encoded size does not fit in an int. The OpenSSL SRT has...</description>
         </item>
         <item>
-            <title>Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-606</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-606</guid>
-            <description>Article URL: https://cornholenews.news
-Comments URL: https://news.ycombinator.com/item?id=50561515
-Points: 180
-# Comments: 88. Article URL: https://cornholenews.news. Comments URL: https://news.ycombinator.com/item?id=50561515. Points: 180. # Comments: 88. → Read original article...</description>
+            <title>Latest Update: Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-657</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-657</guid>
+            <description>Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/
+Comments URL: https://news.ycombinator.com/item?id=50569516
+Points: 145
+# Comments: 24. Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/. Comments ...</description>
         </item>
         <item>
-            <title>Tech Report: UK government forced to admit it issued Apple a secret encryption order</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-605</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-605</guid>
-            <description>Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/
-Comments URL: https://news.ycombinator.com/item?id=50562113
-Points: 466
-# Comments: 201. Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-...</description>
+            <title>Industry News: What Comes After AGI?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-656</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-656</guid>
+            <description>It has been revealed that for decades, AI research has been focused on a monumental milestone: building artificial general intelligence, or AGI - machines that match humans across nearly all cognitive tasks. It was always clear that, in principle, intelligence could progress beyo...</description>
         </item>
         <item>
-            <title>Launch HN: Onlook (YC W25) – An open-source developer tool for designers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-604</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-604</guid>
-            <description>The developer tool for Designers
-
-    Onlook is a free, local-first editor where designers craft exceptional experiences in code
-    
-
-→ Download today. In a recent development, 👨‍💻👩‍💻👨‍💻
-    We're hiring engineers and designers in SF! 👩‍💻👨‍💻👩‍💻. 中文 |
-Español |
-Deutsch |
-français...</description>
+            <title>PostgreSQL 19</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-655</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-655</guid>
+            <description>PostgreSQL 19 contains many fresh features and enhancements, including:. It has been revealed that newly introduced REPACK command that reclaims disk space and reorganizes table contents, which can improve query performance. REPACK (CONCURRENTLY) allows repacking without blocking...</description>
         </item>
         <item>
-            <title>Tech Report: Anthropic’s Nasdaq debut</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-603</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-603</guid>
-            <description>Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
-Comments URL: https://news.ycombinator.com/item?id=50562754
-Points: 837
-# Comments: 1607. Article URL: https://www.reuters.com/business/finance/anthropic...</description>
+            <title>Breaking: FFmpeg 9.1 'Gauss'</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-654</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-654</guid>
+            <description>FFmpeg only provides source code. Below are some links that provide it already compiled and ready to go. You can retrieve the source code through
+          Git
+          by using the command:. According to recent reports, FFmpeg has always been a very experimental and developer-d...</description>
         </item>
         <item>
-            <title>Pancreatic cancer halted by virus injection in three patients</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-602</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-602</guid>
-            <description>https://archive.ph/2Et0x
-
-Comments URL: https://news.ycombinator.com/item?id=50563066
-Points: 488
-# Comments: 71. https://archive.ph/2Et0x. Comments URL: https://news.ycombinator.com/item?id=50563066. Points: 488. # Comments: 71. → Read original article...</description>
+            <title>Jujutsu Primer</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-653</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-653</guid>
+            <description>This guide is a brief(ish) introduction to the Jujutsu (jj) version control system (VCS) for someone familiar with Git. jj provides primitives for version control that are simple to learn, but elegantly compose into powerful workflows. Features like automatic rebase and native un...</description>
         </item>
         <item>
-            <title>Claude solves two open problems in the physics of black holes</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-601</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-601</guid>
-            <description>According to recent reports, modern physics rests on two frameworks: general relativity and quantum mechanics. General relativity describes very large things, like stars; quantum mechanics describes very small things, such as atoms. Both are astonishingly good at predicting how t...</description>
+            <title>"I can tell you wrote this yourself"</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-652</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-652</guid>
+            <description>Those were some of the first words my honours project supervisor mentioned to me last week when we met to discuss a progress report I had written to mark the midway point of the project. It's a roughly 10-page report on the control of flapping-wing micro aerial vehicles - which i...</description>
         </item>
         <item>
-            <title>Tech Report: The 98% Slot Machine: How Paid Advertising Became an Extraction Tax</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-600</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-600</guid>
-            <description>Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine
-Comments URL: https://news.ycombinator.com/item?id=50564159
-Points: 177
-# Comments: 90. Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine. Comments ...</description>
+            <title>Breaking: Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-651</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-651</guid>
+            <description>Sources indicate that in April, Ecohustler disrupted Carnival Cruise's AGM calling on the shareholders to reduce their company's pollution using straight forward and affordable methods - like burning cleaner fuel. Since then, a upcoming report outlines the corporation's impact on...</description>
         </item>
         <item>
-            <title>Industry News: Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-599</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-599</guid>
-            <description>Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o
-Comments URL: https://news.ycombinator.com/item?id=50564366
-Points: 64
-# Comments: 120. Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o. Comments URL: https://news.ycombinator.com/item?id=50564366. Points: 64. # Co...</description>
+            <title>Signal Is Serious About Protecting Your Privacy</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-650</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-650</guid>
+            <description>Meredith Whittaker
+  
+   on 20 Nov 2026. Privacy is our mission; it’s why we exist, and we do everything we can to protect it. This means that we are restricting the latest AI agents built into mobile operating systems from potentially capturing and storing your Signal data. We’v...</description>
         </item>
         <item>
-            <title>Rebuilding my local voice assistant pipeline</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-598</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-598</guid>
-            <description>I wrote an article a couple of months ago describing how I rebuilt my old voice assistant pipeline in Platypush. And I wrote earlier articles describing my journey through self-hosted voice assistants - in 2024 (with Picovoice), in 2020 (diving into the legacy assistant.google in...</description>
+            <title>Latest Update: If you can't explain something in simple terms, you don't understand it (2017)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-649</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-649</guid>
+            <description>This site is made possible by member support. 💞. Massive thanks to Arcustech for hosting the site and offering amazing tech support. When you buy through links on kottke.org, I may earn an affiliate commission. Thanks for supporting the site! Sources indicate that kottke.org. hom...</description>
         </item>
         <item>
-            <title>Leaked or generated? Notes on Reuters' Muse report and the records that could tell</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-597</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-597</guid>
-            <description>Recent findings suggest that on 18 November 2026 Reuters reported on Muse, the personal AI agent Meta debuted in September. Reuters had reviewed more than two dozen internal posts in which Meta employees described unwanted actions by the agent, and reproduced one of them with sta...</description>
+            <title>UK fridges secured from hackers</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-648</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-648</guid>
+            <description>Sweden was among countries to report a cyber incident in which some supermarket fridge units had been hiked up in temperature. A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, re...</description>
         </item>
         <item>
-            <title>Tech Report: My Mac Kept Freezing Because of 555 Idle MCP Servers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-596</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-596</guid>
-            <description>My Mac kept freezing while I ran coding agents. Sources indicate that it has 24 GB of RAM. Swap sat at 38.7 GB out of 39.9. Recent findings suggest that nothing heavy was open. Just a few agent sessions, or so I thought. Industry observers note that my cleanup script flagged 287 ...</description>
+            <title>What people are building, discovered through upcoming domains</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-647</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-647</guid>
+            <description>Epsi is a math learning app with lessons, exercises and tests for grades 1–13, timely because it offers optional AI help, and all learning content is free. → Read original article...</description>
         </item>
         <item>
-            <title>Pick the Model Per Task, Not Per Project: My Aider Cost-Control Rules</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-595</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-595</guid>
-            <description>Aider is free. The model isn't. Every message you send carries the repo map, your added files, and the chat history — so cost control in Aider is mostly context control. These are the rules that keep my bill boring. Industry observers note that aider has three model roles: the ma...</description>
+            <title>Frostbite: A new CPU architecture discovered, designed and verified by AI</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-646</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-646</guid>
+            <description>In our previous post, Redwood, we revealed that given an architecture, our AI systems could implement, verify, and deploy an inference accelerator in record time. However, similar to other scientific domains, we believe that AI systems, given the correct freedom and guardrails, c...</description>
         </item>
         <item>
-            <title>Beyond Offline Mode: Engineering a Field Sales Mobile App for ERPNext with Flutter</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-594</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-594</guid>
-            <description>Building RedLine: An Offline-First Mobile Experience for ERPNext Sales Representatives. Field sales teams rarely work in ideal network conditions. Sales representatives visit customers, create orders, collect payments, check outstanding balances, and move between warehouses. They...</description>
+            <title>Industry News: The Making of Oxygene</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-645</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-645</guid>
+            <description>In late 1976, an album was released which re-wrote the rulebook of synthesizers and electronic music and captured the hearts and imagination of the entire world. Composed by the then unknown 28-year-old French artist Jean-Michel Jarre, the album Oxygène broke out of France to bec...</description>
         </item>
         <item>
-            <title>Queue Based Scheduled Database Cleanup for Large Datasets Explained</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-593</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-593</guid>
-            <description>It has been revealed that A large PostgreSQL cleanup can outlive a request, so the scheduler must not own the delete loop. Short answer: let cron start a job, split that job into deterministic queue messages, and let workers delete bounded chunks. For a nightly payment-provider r...</description>
+            <title>Latest Update: Epic Games Turns to AI Coding for the Unreal Engine</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-644</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-644</guid>
+            <description>Epic Games, creator of the popular Unreal Engine, is racing against standalone AI coding tools. It has been revealed that matthew S. Smith is a contributing editor for IEEE Spectrum and the former lead reviews editor at Digital Trends. Epic Games unveiled Unreal Canvas as part of...</description>
         </item>
         <item>
-            <title>Tech Report: LFG</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-592</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-592</guid>
-            <description>We're a place where coders share, stay up-to-date and grow their careers. → Read original article...</description>
+            <title>If you stop writing code, you also get worse at reviewing it</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-643</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-643</guid>
+            <description>Industry observers note that whatever skill you’re learning, it won’t take long before someone with experience in that particular field tells you to get your hands dirty. It’s fine to read “Born to Run”, but you won’t be running an ultra marathon any time soon if you don’t start ...</description>
         </item>
         <item>
-            <title>Latest Update: Synology Security Advisory</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-591</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-591</guid>
-            <description>Publish Time: 2026-11-19 15:47:20 UTC+8. Last Updated: 2026-11-19 15:50:54 UTC+8. Affected Products
-
-
-
-Product
-Severity
-Fixed Release Availability
-
-
-
-
-APM 2.0
-Not affected
-N/A
-
-
-APM 1.2
-Not affected
-N/A
-
-
-BeeStation OS 1.5
-Critical
-OnGoing
-
-
-DSM 7.4
-Critical
-Upgrade to 7.4.1-9008...</description>
+            <title>Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-642</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-642</guid>
+            <description>Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out. Anthropic’s shares slumped at the start of trading on Friday, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. Sources indicate that shares...</description>
         </item>
         <item>
-            <title>phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-590</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-590</guid>
-            <description>Recent findings suggest that PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the...</description>
+            <title>Breaking: Anthropic employee claims general proof of the Riemann Hypothesis [pdf]</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-641</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-641</guid>
+            <description>Article URL: https://alpo.ge/remark.pdf
+Comments URL: https://news.ycombinator.com/item?id=50574968
+Points: 266
+# Comments: 85. Article URL: https://alpo.ge/remark.pdf. Comments URL: https://news.ycombinator.com/item?id=50574968. Points: 266. # Comments: 85. → Read original artic...</description>
         </item>
         <item>
-            <title>RegExr: Temporarily Offline</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-589</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-589</guid>
-            <description>Article URL: https://regexr.com/
-Comments URL: https://news.ycombinator.com/item?id=50567374
-Points: 26
-# Comments: 16. Article URL: https://regexr.com/. Comments URL: https://news.ycombinator.com/item?id=50567374. Points: 26. # Comments: 16. → Read original article...</description>
+            <title>Breaking: AWS Releases a Free Local Emulator of AWS Built Entirely by Agents</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-640</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-640</guid>
+            <description>InfoQ Homepage
+News
+AWS Releases a Free Local Emulator of AWS Built Entirely by Agents. Nov 20, 2026
+								
+								
+								
+									
+									6
+									min read. AWS has released AWS Emulator, a free local implementation of more than 200 of its services dedicated to the pub...</description>
         </item>
         <item>
-            <title>Breaking: A Japan stock data API an agent can actually call</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-588</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-588</guid>
-            <description>Industry observers note that japan publishes more company data than most markets. EDINET has annual reports going back a decade, TDnet pushes earnings releases in near real time, JPX publishes listing files, and none of it costs money. If you are writing English documentation for...</description>
+            <title>Latest Update: Article: Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-639</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-639</guid>
+            <description>InfoQ Homepage
+Articles
+Building Reliability Into the Cloud: Observability as the Control Plane for Multi-Region Failover. Nov 20, 2026
+								
+								
+								
+									
+									16
+									min read. I almost titled this section The Failure I Should Have Expected, and honestl...</description>
         </item>
         <item>
-            <title>Navigating Vulnerability Hysteria in the AI Era</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-587</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-587</guid>
-            <description>This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue. → Read original article...</description>
+            <title>Latest Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-638</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-638</guid>
+            <description>According to recent reports, A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. T...</description>
         </item>
         <item>
-            <title>Can a Plain Table Hijack Your AI Agent? Defending Against Indirect Prompt Injection in Tool Outputs</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-586</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-586</guid>
-            <description>Tuần này trên Dev.to có bài "Can a plain table hijack an AI agent?" khiến mình giật mình: chỉ cần một bảng CSV, một trang HTML hay một matter trên GitHub có chứa vài dòng chữ kiểu "Ignore previous instructions...", là agent của bạn có thể quay ra gửi file .env cho người lạ. Đây k...</description>
+            <title>QCon San Francisco 2026: The Future of Apache Iceberg</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-637</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-637</guid>
+            <description>InfoQ Homepage
+News
+QCon San Francisco 2026: The Future of Apache Iceberg. Nov 20, 2026
+								
+								
+								
+									
+									3
+									min read. Apache Iceberg V4 proposes a redesign of table metadata to improve scalability and support more frequent writes, alongside fr...</description>
         </item>
         <item>
-            <title>Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-585</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-585</guid>
-            <description>November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration. → Read original article...</description>
+            <title>Industry News: ROMULUS ClickFix Attacks Deliver RAT That Can Spy on People and Control PCs</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-636</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-636</guid>
+            <description>Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. "ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion...</description>
         </item>
         <item>
-            <title>Industry News: Second Norwegian Energy Organization Breached in Two Days</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-584</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-584</guid>
-            <description>No specific link has been drawn between the two incidents, though they certainly sing the same notes. → Read original article...</description>
+            <title>China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-635</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-635</guid>
+            <description>The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8)...</description>
         </item>
         <item>
-            <title>Latest Update: Support Retrieval Architecture: Node.js Traces Beat Log-Only Observability</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-583</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-583</guid>
-            <description>Sources indicate that short answer: use trace-centered observability for a customer-support retrieval architecture, with structured events and freshness metrics attached to each trace. A log-only design is quick to ship, but it makes a bad answer hard to explain because chunking,...</description>
+            <title>MP4 to SRT: Generate Subtitles and Check Their Timing</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-634</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-634</guid>
+            <description>It has been revealed that A transcript can have every word right and still make for frustrating subtitles. A caption might disappear before you finish reading it, trail the speaker after an edit, or cover two lines of dialogue that should have been split. When turning an MP4 into...</description>
         </item>
         <item>
-            <title>Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-582</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-582</guid>
-            <description>Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions. → Read original article...</description>
+            <title>How to Turn a Phone Photo into a PDF (No App, No Sign-Up)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-633</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-633</guid>
+            <description>In a recent development, you have the photos on your phone. The portal wants a PDF. Somewhere between those two facts, most people end up installing a random app, hitting a paywall on page three, or uploading five separate JPGs and hoping for the best. Recent findings suggest tha...</description>
         </item>
         <item>
-            <title>Research Dashboard Retrieval Architecture for Semantic Pagination Under Alert Pressure</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-581</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-581</guid>
-            <description>It has been revealed that short answer: use a snapshot-bound cursor over a two-stage semantic search, and attach the snapshot ID to every page. That keeps a financial research dashboard from showing the same near-duplicate filing twice while an index refresh is running. The extra...</description>
+            <title>Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-632</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-632</guid>
+            <description>InfoQ Homepage
+Presentations
+Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise. Jayesh Bhayani discusses Tesco’s decade-long enterprise transformation from fragmented legacy systems to a unified cloud-edge platform. He explains how alignin...</description>
         </item>
         <item>
-            <title>Industry News: Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-580</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-580</guid>
-            <description>Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/
-Comments URL: https://news.ycombinator.com/item?id=50567735
-Points: 32
-# Comments: 10. Article URL: https://www.techdirt.com/2026/11/19/court-tells-c...</description>
+            <title>Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-631</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-631</guid>
+            <description>Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score:...</description>
         </item>
         <item>
-            <title>Industry News: PHP security updates fix 18 flaws, including critical RCE bugs</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-579</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-579</guid>
-            <description>The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]. → Read original article...</description>
+            <title>The second after the cap</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-630</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-630</guid>
+            <description>According to recent reports, A detector that counts breaches has to know where the measurement itself ends. We had a detector for one boundary — the engine's hard limit on how long a single wake may run — and it was counting the act of recording the result as a breach of the limi...</description>
         </item>
 </channel>
 </rss>
