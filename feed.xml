@@ -4,8 +4,137 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 23:53:27 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:42:09 -0000</lastBuildDate>
     
+        <item>
+            <title>Language Models Can Rewrite Their Own Weights</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-721</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-721</guid>
+            <description>Article URL: https://arxiv.org/abs/2611.21885
+Comments URL: https://news.ycombinator.com/item?id=50577265
+Points: 384
+# Comments: 116. Article URL: https://arxiv.org/abs/2611.21885. Comments URL: https://news.ycombinator.com/item?id=50577265. Points: 384. # Comments: 116. → Read ...</description>
+        </item>
+        <item>
+            <title>Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-720</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-720</guid>
+            <description>Sources indicate that I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ organization and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved ...</description>
+        </item>
+        <item>
+            <title>Serious cyberattack thought backed by wealthy operators</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-719</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-719</guid>
+            <description>Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411
+Comments URL: https://news.ycombinator.com/item?id=50583856
+Points: 60
+# Comments: 31. Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-...</description>
+        </item>
+        <item>
+            <title>I Don't Trust Visual Recordings Anymore. But One Day I Will Again</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-718</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-718</guid>
+            <description>We will have to label our content to prove its authenticity. Hany Farid is a computer science professor at Dartmouth College, in Hanover, N.H. → Read original article...</description>
+        </item>
+        <item>
+            <title>Clojure will affect the way you think about programming (2017)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-717</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-717</guid>
+            <description>I sometimes get asked for recommendations of what programming language to "learn
+next". It's great that folks appreciate the fact that being exposed to several
+sufficiently different programming languages is an important step on the path
+to programming enlightenment. But it's als...</description>
+        </item>
+        <item>
+            <title>BlackBlaze now explicitly states selling your data for advertisement</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-716</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-716</guid>
+            <description>Effective Date: December 1, 2026. Backblaze is headquartered in the United States and is a data storage company that provides two primary services. The first, Computer Backup, offers unlimited cloud backup solutions for individuals and organizations using Mac or PC devices, inclu...</description>
+        </item>
+        <item>
+            <title>ClawDOS – An AI coding agent for DOS</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-715</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-715</guid>
+            <description>Industry observers note that an AI coding agent for DOS. It runs on an IBM PC XT: an 8088 at 4.77 MHz, 640K of RAM, a CGA card. Backstory: The IBM PC was my first computer. Rather, it was my parents’ first personal computer that I got to use at a very early age. It was already ob...</description>
+        </item>
+        <item>
+            <title>Breaking: 一次由高危漏洞引发的 Nginx 1.30.7 跨发行版安全升级实战</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-714</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-714</guid>
+            <description>2026 年以来，F5 / NGINX 官方接连披露了多起影响 NGINX Open Source 与 NGINX Plus 的高危及中危安全漏洞。最近在例行安全扫描中，一台运行 nginx/1.28.0 的应用节点一口气被扫出了 13 个漏洞（6 高危 + 7 中危）。. 本文从漏洞背景、风险评估讲起，重点记录一次跨越 Ubuntu 24.04（实验环境） 与 Rocky Linux 9.6（生产环境） 的 nginx/1.30.7 升级实战、踩坑排查过程与回滚预案。. 在 2026 年披露的这一批 Nginx CVE 中，有几个代表性漏洞影响面极广：...</description>
+        </item>
+        <item>
+            <title>Introducing ONCSS: A Lightweight CSS-in-JS Library for Modern JavaScript Applications</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-713</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-713</guid>
+            <description>I've been working on ONCSS, a CSS-in-JS library designed to make styling modern web applications simple, flexible, and developer-friendly. Instead of writing separate CSS files for every component, ONCSS lets you define styles directly in JavaScript using a familiar object-based ...</description>
+        </item>
+        <item>
+            <title>Tech Report: React useReducer – Interview Questions &amp; Answers</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-712</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-712</guid>
+            <description>Industry observers note that Q1. What is useReducer in React? According to recent reports, state – current state value. dispatch – function used to send an action. reducer – function that decides how state changes. initialState – initial value of the state. Q2. What is a reducer ...</description>
+        </item>
+        <item>
+            <title>Read the Trace, Not the Leaderboard</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-711</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-711</guid>
+            <description>According to recent reports, your agent ran for six hours, made 247 tool calls, and then failed. You have two options. Option A: swap to a newer model and hope it fails less. Option B: read the trace, find the tool call that went sideways at step 183, and fix the harness so it ne...</description>
+        </item>
+        <item>
+            <title>PHP's November 2026 Security Release: How to Check, Patch and Restart (and What's Upcoming in PHP 8.6)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-710</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-710</guid>
+            <description>On November 19, 2026, PHP shipped PHP 8.6.0 and, on the same afternoon, security releases for every supported branch: 8.5.13, 8.4.28, 8.3.37 and 8.2.36. The security releases fix 17 vulnerabilities, seven rated critical. PHP says the critical ones need non-default settings or unc...</description>
+        </item>
+        <item>
+            <title>uBlock Origin patches one-click universal XSS flaw</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-709</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-709</guid>
+            <description>Sources indicate that A malicious website could make uBlock Origin inject arbitrary JavaScript into any other site, triggered by a single click anywhere on the attacker's page. The bug was in the element picker, the tool you summon by right-clicking a page to build a filter that ...</description>
+        </item>
+        <item>
+            <title>Fixing PyInstaller --onefile tmpfs Problems by Switching to --onedir and Clarifying Size Myths</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-708</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-708</guid>
+            <description>Sources indicate that when you pass --onefile to PyInstaller, the build tool does not strip dead code, prune unused shared libraries, or shrink your Python interpreter. Instead, the bootloader appends a compressed archive (typically using zlib or LZMA) containing the exact same s...</description>
+        </item>
+        <item>
+            <title>Python Day 7: Positional-Only, Keyword-Only Arguments and Return Statement</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-707</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-707</guid>
+            <description>In Python, / is used as a positional-only argument separator. It means that the parameters written before / must be passed using their position. We cannot pass them using parameter names (keyword arguments). TypeError: calculate() got some positional-only arguments passed as keyw...</description>
+        </item>
+        <item>
+            <title>From India to Japan: How an Indian Software Engineer Can Land an IT Job in Japan (and Permanent Residency in 1–3 Years)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-706</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-706</guid>
+            <description>Most Indian engineers who think about Japan assume the same thing: permanent residency (PR) takes ten years of living there. That is the standard rule. It is not the only rule. Sources indicate that japan runs a points system for highly skilled professionals. Score 70 points and ...</description>
+        </item>
+        <item>
+            <title>Raspberry Pi 5 vs Orange Pi 5 vs NVIDIA Jetson (2026 Guide)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-705</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-705</guid>
+            <description>Industry observers note that single-board computers have evolved far beyond Arduino projects. With the Raspberry Pi 5 offering desktop-class performance, the Orange Pi 5 delivering 8-core ARM power, and the NVIDIA Jetson bringing GPU acceleration, these boards are now viable for ...</description>
+        </item>
+        <item>
+            <title>I built a free interview study coach that plans around your interview date</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-704</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-704</guid>
+            <description>I'm building a small tool for people with a fixed software-engineering interview date and only a few hours a week. You give it the date, your level and your hours. It then:. According to recent reports, it is free. It is plain ES modules with no framework and no build step. There...</description>
+        </item>
+        <item>
+            <title>Remi e AlmaLinux publicam pacotes para falhas críticas no PHP; RHEL e Rocky aguardam correções</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-703</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-703</guid>
+            <description>Industry observers note that divulgadas em 19 de novembro de 2026, as vulnerabilidades CVE-2026-115560 e CVE-2026-129289 receberam pontuação CVSS 9,2. A primeira afeta a extensão de sessões do PHP; a segunda é uma falha de contrabando de requisições no PHP-FPM. A exposição depend...</description>
+        </item>
+        <item>
+            <title>CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-702</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-702</guid>
+            <description>The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use “advanced cryptographic tools” to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the tech giant was simpl...</description>
+        </item>
         <item>
             <title>I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA</title>
             <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-701</link>
@@ -77,143 +206,6 @@ Points: 181
             <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-692</link>
             <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-692</guid>
             <description>According to recent reports, it’s been a little bit quiet around these parts; sorry about that. I’ve been really busy for the past fifteen months with a major project that I am finally ready to formally release. So I’d like to talk about that project, and also a potted history of...</description>
-        </item>
-        <item>
-            <title>And Yet, It Moves</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-691</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-691</guid>
-            <description>Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/
-Comments URL: https://news.ycombinator.com/item?id=50581177
-Points: 58
-# Comments: 26. Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/. Comments URL: https://news.ycombinator.com/item?id=505...</description>
-        </item>
-        <item>
-            <title>Tech Report: Inkling 2 Mini</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-690</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-690</guid>
-            <description>Today we are releasing Inkling 2 Mini, a fast, powerful model that’s small enough to run on your laptop. Industry observers note that inkling 2 Mini is a looped transformer, running the middle layers of the model three times for every token. This allows the model to apply more re...</description>
-        </item>
-        <item>
-            <title>Show HN: OpenComputer – an open source alternative to Devin</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-689</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-689</guid>
-            <description>The open-source Devin alternative: a coding agent your team works with in Slack, on its own computers, in your cloud or ours. Cloud | Self-hosting | Docs | Website | Benchmark | Community | X. It has been revealed that openComputer is the open source, self hostable alternative to...</description>
-        </item>
-        <item>
-            <title>Nvidia accounting under SEC investigation, sources say</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-688</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-688</guid>
-            <description>Recent findings suggest that nvidia's worst week on record just got worse. Now the government is asking questions about its books. Nvidia (NVDA) stock fell nearly 14% Friday, its worst day since the DeepSeek rout in January 2025 and its seventh straight loss. The drop came as Reu...</description>
-        </item>
-        <item>
-            <title>A few hours ago Google DeepMind created a math horizon repo</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-687</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-687</guid>
-            <description>Article URL: https://github.com/google-deepmind/math-horizon
-Comments URL: https://news.ycombinator.com/item?id=50582629
-Points: 38
-# Comments: 21. Article URL: https://github.com/google-deepmind/math-horizon. Comments URL: https://news.ycombinator.com/item?id=50582629. Points: 3...</description>
-        </item>
-        <item>
-            <title>Latest Update: The Hungry Butler Effect: Concealed Commercial Incentives in LLMs</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-686</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-686</guid>
-            <description>Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models
-Comments URL: https://news.ycombinator.com/item?id=50583117
-Points: 7
-# Comments: 3. Article URL: ...</description>
-        </item>
-        <item>
-            <title>Nasdaq erases all 2026 gains</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-685</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-685</guid>
-            <description>According to recent reports, stocks were slammed on Friday, closing out a brutal week for markets as the much-hyped Anthropic IPO caused investors to take profits on the artificial intelligence-led rally rather than revive it. The Nasdaq Composite turned negative for the year, an...</description>
-        </item>
-        <item>
-            <title>NINLIVE: The Nine Inch Nails live archive</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-684</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-684</guid>
-            <description>According to recent reports, besides a database driven site. The second most requested feature for ninlive is streaming capability. The future is now. TJ has been working hard behind the scenes to make it happen. You are now able to stream all of your favorite NIN live recordings...</description>
-        </item>
-        <item>
-            <title>Tech Report: Sir Brian May adds latest dimension to Hera asteroid</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-683</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-683</guid>
-            <description>Hera science team member, astrophysicist and Queen guitarist Sir Brian May has added an additional dimension to the ESA planetary defence mission’s early views of the Didymos asteroid system via stereoscopic imagery – revealing the dramatic features of this exotic body as never b...</description>
-        </item>
-        <item>
-            <title>Industry News: Uptime Kuma vs Beszel: Homelab Monitoring Pick</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-682</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-682</guid>
-            <description>Industry observers note that when choosing between Uptime Kuma and Beszel for homelab monitoring, the decision centers on what data you actually need. Uptime Kuma acts as an external endpoint checker that verifies if a service responds on a specific port or URL. Beszel operates a...</description>
-        </item>
-        <item>
-            <title>How I Cut AI Coding Token Usage by 90% Using Local AST Pruning</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-681</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-681</guid>
-            <description>I'm Toprak, a 15-year-old software engineer from Turkey building open-source developer tooling at Siber Akademi. Like many developers using AI coding assistants like Cursor, Claude Desktop, and Windsurf, I constantly hit a major wall on large codebases: Context Window Bloat. Indu...</description>
-        </item>
-        <item>
-            <title>Tech Report: Apify MCP tool cost: 10 live Actor definitions plus the tokens in their results</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-680</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-680</guid>
-            <description>I enabled ten of our Apify Actors on the hosted MCP server and counted 27,797 reference tokens in their tool definitions. Then I pulled the first three rows from a real run of each Actor. The biggest response, from our rental scraper, took 7,434 tokens. Asking for the same rows w...</description>
-        </item>
-        <item>
-            <title>The Swap Isn't Finished When You Click Confirm: 7 Things Every Web3 Swap Interface Must Get Right</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-679</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-679</guid>
-            <description>Swap TRC-20 tokens on TRON with self-custody and open-source smart contracts. Low fees, verifiable on TRONSCAN. A crypto swap interface can look incredibly simple. Recent findings suggest that select USDT. Choose another token. Enter an amount. Click Swap. Behind that apparently ...</description>
-        </item>
-        <item>
-            <title>Why your AI agent pushes as the wrong GitHub account (and a 3-minute fix)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-678</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-678</guid>
-            <description>You open a client project, ask Claude Code to fix a bug and open a pull request. Two minutes later the PR is up, from your personal GitHub account, with your personal email on every commit. If you use more than one GitHub account on the same computer (work, personal, a client or ...</description>
-        </item>
-        <item>
-            <title>Overcoming Late-Stage Tech Interview Rejections and Market Stagnation Through Strategic Career Repositioning</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-677</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-677</guid>
-            <description>Recent findings suggest that the 2026 engineering hiring bottleneck does not signal permanent industry decline or personal inadequacy among experienced builders. Instead, it reflects a structural employer-side arbitrage in which organizations demand Staff-level execution at Senio...</description>
-        </item>
-        <item>
-            <title>GitHub nuked me with no reason, and (so far) no ability to contact a human</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-676</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-676</guid>
-            <description>Sources indicate that yeah title about indicates it all. I just tried logging into github and I canât, when I do it redirects me to https%3A%2F%2Fgithub.com%2Fsuspended. Going to my account https://github.com/0n4t3 gives a 404 and my personal website (until I migrated it here t...</description>
-        </item>
-        <item>
-            <title>What We Missed: Nvidia CEO Scandal Rocks AI Industry</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-675</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-675</guid>
-            <description>In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage. → Read original article...</description>
-        </item>
-        <item>
-            <title>Latest Update: Smartlook Alternative for WordPress: Self-Hosted Session Recordings and Heatmaps</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-674</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-674</guid>
-            <description>According to recent reports, we build Opti-Behavior, a WordPress plugin; this guide was first published on our blog. The export steps and the checklist are useful whatever tool you pick. Smartlook stopped selling upcoming subscriptions on 31 May 2026 and the platform will be swit...</description>
-        </item>
-        <item>
-            <title>In Security, Words Matter as Much as Tools, Maybe More</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-673</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-673</guid>
-            <description>From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise. → Read original article...</description>
-        </item>
-        <item>
-            <title>Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-672</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-672</guid>
-            <description>InfoQ Homepage
-News
-Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities. Nov 20, 2026
-								
-								
-								
-									
-									2
-									min read. Meta developed Triton Low-Level Extensions (TLX), designed to bridge the gap between high-level...</description>
         </item>
 </channel>
 </rss>
