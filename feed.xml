@@ -4,8 +4,166 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 18:58:52 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:10:33 -0000</lastBuildDate>
     
+        <item>
+            <title>Latest Update: Upload2Shell (CVE-2026-125396)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-781</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-781</guid>
+            <description>Ghostscript 10.05.1~dfsg-1+deb13u1. → Read original article...</description>
+        </item>
+        <item>
+            <title>Pandex – Official European Law for AI Agents, over MCP</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-780</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-780</guid>
+            <description>Legislation and highest-court decisions of the EU and seven European countries, straight from the institutions that publish them, ready for search and AI agents. Works with the AI tools you already use. One API and one MCP server for every jurisdiction we hold. Cour de cassation,...</description>
+        </item>
+        <item>
+            <title>Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-779</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-779</guid>
+            <description>AI is moving from answering questions to owning work. Join a small team in San Francisco building AI employees that companies can trust with real responsibilities, around the clock. All positions are full-time and in-person in our San Francisco office. Define and build how people...</description>
+        </item>
+        <item>
+            <title>Advice for the next 100 Rust GUIs</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-778</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-778</guid>
+            <description>In a recent development, this is a followup to Advice for the next dozen Rust GUIs, published 4.5 years ago. The world is different in many ways, but some of the advice there is still valid. There have been roughly 20 Rust GUI toolkits announced since that blog post (see 2026 sur...</description>
+        </item>
+        <item>
+            <title>PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-777</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-777</guid>
+            <description>Versión en español: README.es.md. According to recent reports, find the network fault in seconds, not hours. Upload a .pcap / .pcapng capture
+(gzip too) and PcapAnalyzer tells you what is failing, why, and what to check next. It runs on your own machine, so captures never leave y...</description>
+        </item>
+        <item>
+            <title>Sandwich Simulator</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-776</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-776</guid>
+            <description>Der Stullensimulator braucht JavaScript. Was das hier ist. → Read original article...</description>
+        </item>
+        <item>
+            <title>Leonida – PC Recompilation of the Xbox Version of GTA 6</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-775</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-775</guid>
+            <description>Industry observers note that status |
+  How to build |
+  How it works |
+  Want to help? |
+  Credits |
+  License |
+  Discord. Recent findings suggest that leonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded
+and run nativ...</description>
+        </item>
+        <item>
+            <title>The Mythology of Conscious AI</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-774</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-774</guid>
+            <description>Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea. Anil Seth won the 2025 annual Berggruen Prize Essay Competition for his English-language essay, “The Mythology Of Conscious AI.”. Sourc...</description>
+        </item>
+        <item>
+            <title>Building a Rootless Linux Sandbox in Pure Rust — Without Docker or a Daemon</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-773</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-773</guid>
+            <description>If you ever need to run untrusted scripts, test builds, or execute AI-generated code on Linux, the usual options are either spinning up a full Docker container or trusting the process on your host. I wanted something lighter: a single binary and embeddable Rust library that isola...</description>
+        </item>
+        <item>
+            <title>DeepSeek Flash 與 V4 Pro：該把請求路由到哪個模型？</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-772</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-772</guid>
+            <description>DeepSeek 現在在同一個 OpenAI 相容介面中提供兩個實用的價格級距。deepseek-flash 面向高併發、大批量的工作負載。deepseek-v4-pro 價格較高，應該用在便宜路線無法勝任的任務上，才配得上這份溢價。. 試用 Tokuse： 建立免費帳戶 並透過一個 OpenAI 相容端點送出你的第一個請求。. DeepSeek 公開定價頁面（2026 年 11 月 9 日查閱）列出以下每百萬 token 的離峰價格：. Tokuse 路由這些模型。表格顯示的是 DeepSeek 官方標價；Tokuse 的分組定價可能有所不同。請查看 ...</description>
+        </item>
+        <item>
+            <title>Industry News: What Is an IP Address? Explained Simply</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-771</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-771</guid>
+            <description>Originally published on CodingCush. According to recent reports, an IP address is a number that identifies a device on a network, like a house number identifies a house on a street. Every phone, laptop and website server has one, and without it, data would have no idea where to g...</description>
+        </item>
+        <item>
+            <title>Tech Report: Data Processing Incidents on Inference Providers</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-770</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-770</guid>
+            <description>Earlier this week, security researchers reported that certain inference providers had data compromised or otherwise shown evidence that their data policies were not being upheld. We have been collaborating closely with the researchers and with providers to understand the findings...</description>
+        </item>
+        <item>
+            <title>Node.js Queue Design for Webhook Follow-Up Tasks One Hour Later</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-769</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-769</guid>
+            <description>Short answer: for a webhook follow-up that is due one hour later, record a durable obligation keyed by the source event, let workers claim due work, and reserve cron for recurring reconciliation rather than creating a cron entry for each event. In a recent development, the decisi...</description>
+        </item>
+        <item>
+            <title>豆包 Seed 2.1 API：Pro/Lite/Turbo 價格與選型</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-768</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-768</guid>
+            <description>Tokuse 已經接入 ByteDance 豆包 Seed 2.1 系列的三個模型，並統一提供 OpenAI 相容介面。對正在控制 AI 成本的團隊來說，這不只是多了一個模型選項，而是多了一組價格梯度：同一套程式碼，可以依照任務在 Pro、Lite、Turbo 之間切換，把能力等級和成本等級分開管理。. 在 Tokuse 上試一下： 建立免費帳號，用一個 OpenAI 相容端點完成第一次請求。. 本文依據 2026 年 11 月 16 日 Tokuse 線上模型目錄，比較 doubao-seed-2-1-pro-260915、doubao-seed-2-...</description>
+        </item>
+        <item>
+            <title>The Most Popular Car Colors in America</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-767</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-767</guid>
+            <description>White was the most popular car color 30 years ago and it maintains that ranking today. When combined with the prominence of black (23.4%) and gray (22.9%), the top three most popular colors hold 72% of market share for modern car colors. It’s worth noting that silver, the fourth ...</description>
+        </item>
+        <item>
+            <title>When DeepSeek Web Chat Hits Its Limit, Move the Conversation Somewhere It Can Continue</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-766</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-766</guid>
+            <description>After the limit, a long conversation should not be trapped in the chat box. It needs a place where it can continue and become a deliverable. It has been revealed that around November 16, some free users of the DeepSeek app and web chat began seeing limit notices (21jingji report)...</description>
+        </item>
+        <item>
+            <title>What Is Machine Learning? Explained Simply for Beginners</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-765</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-765</guid>
+            <description>Originally published on CodingCush. Machine learning is a way of teaching computers to find patterns in examples, instead of giving them step by step rules for everything. You show the computer thousands of labelled examples, it learns the pattern, and then it can guess the answe...</description>
+        </item>
+        <item>
+            <title>Latest Update: Molecular Fingerprints and Tanimoto Similarity — Worked Examples</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-764</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-764</guid>
+            <description>A chemist can look at two structures and say they look alike. A screening script cannot. It needs a number. A common number is a Tanimoto coefficient computed on a molecular fingerprint. That number is easy to over-interpret. The examples below are responses from SeqChem's public...</description>
+        </item>
+        <item>
+            <title>Together.ai: Prompt Leakage for Requests</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-763</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-763</guid>
+            <description>We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026. An unauthorized party downloaded stored prompt samples after a credential for a private repository was exposed in a pu...</description>
+        </item>
+        <item>
+            <title>Latest Update: Building an Offline-First Local AI Coding Studio with Rust (PyO3), FastAPI, and Tauri 2.0)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-762</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-762</guid>
+            <description>If you work on proprietary codebases or regulated systems, sending your source code to cloud LLM APIs is often a non-starter. I wanted a local, offline-capable coding assistant that goes beyond a basic chat window—something that can actually index a repository, reason across file...</description>
+        </item>
+        <item>
+            <title>Notes from scraping 4,400+ Xero, QuickBooks, Zoho &amp; NetSuite apps over plain HTTP (38MB RAM)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-761</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-761</guid>
+            <description>Recent findings suggest that test run qUI9gTtRIHTWhqEbR on our fresh Oracle NetSuite SuiteApp actor finished today in 3 seconds and peaked at 38.1 MB of RAM (30.5 MB average). No Playwright, no Puppeteer, no residential proxy rotation. I've spent the past few days writing HTTP-on...</description>
+        </item>
+        <item>
+            <title>IT internships in Sri Lanka: what 466 open roles say (November 2026)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-760</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-760</guid>
+            <description>We run intern.lk, a free site that collects internships and first jobs from companies across Sri Lanka in one place. Because every listing passes through the same pipeline, we can count them. Here is what the open listings on 22 November 2026 say about IT and software internships...</description>
+        </item>
+        <item>
+            <title>Toyota, Nissan, and Honda to standardize parts to lower costs</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-759</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-759</guid>
+            <description>Japan’s three largest automakers have agreed to begin standardizing vehicle parts in an effort to reduce costs, according to Automotive News. The outlet reports that Japan Automobile Manufacturers Association chairman Koji Sato, who is also the vice chairman of Toyota, announced ...</description>
+        </item>
+        <item>
+            <title>On‑policy distillation speeds up MoE recovery</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-758</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-758</guid>
+            <description>Treating expert weights as priors cuts the time needed to recover a multi‑teacher student after a distribution shift by roughly half. The shortcut comes from jointly learning mixing coefficients and student parameters while keeping the experts fixed as priors, allowing cheap upda...</description>
+        </item>
+        <item>
+            <title>Breaking: Rackspace Spot breach let hackers access customer Kubernetes secrets</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-757</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-757</guid>
+            <description>According to recent reports, rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]. → Read original article...</description>
+        </item>
         <item>
             <title>I'm quite pleased by the tech architecture of my art website</title>
             <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-756</link>
@@ -50,189 +208,6 @@ all prior versions. We also release a new Gp...</description>
             <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-752</guid>
             <description>Where Everyday Human Reasoning Still Surpasses Frontier
                             Models → Read original article...</description>
-        </item>
-        <item>
-            <title>Detonating a pile of lead azide</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-751</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-751</guid>
-            <description>Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really
-Comments URL: https://news.ycombinator.com/item?id=50588982
-Points: 365
-# Comments: 229. Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really. Co...</description>
-        </item>
-        <item>
-            <title>Lean verification of the Riemann Hypothesis</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-750</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-750</guid>
-            <description>Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code. We have full confidence that Alpöge's pr...</description>
-        </item>
-        <item>
-            <title>Show HN: Zero C#, Power of C# without any GC</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-749</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-749</guid>
-            <description>A fork of bflat compiles C# straight to a small native program: no .NET runtime, no garbage collector, nothing to install where it runs. Sources indicate that you keep C#'s syntax, type checking and generics. Memory comes from arenas you free all at once, and a small library give...</description>
-        </item>
-        <item>
-            <title>Verification files for the Lean proof of the Riemann Hypothesis</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-748</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-748</guid>
-            <description>Confirmed at alpo.ge/remark.pdf on 20 November 2026. Recent findings suggest that andrew Sutherland (MIT), checks run with Claude Code. Page last updated 2026-11-21 12:55 UTC. Results below are as of that time and this page will be updated as the remaining checks finish. Accordin...</description>
-        </item>
-        <item>
-            <title>Tech Report: How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-747</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-747</guid>
-            <description>InfoQ Homepage
-News
-How Google Traced GKE API Timeouts to a Linux Kernel TCP Bug. Nov 21, 2026
-								
-								
-								
-									
-									3
-									min read. Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, an...</description>
-        </item>
-        <item>
-            <title>Industry News: PostgreSQL Extensions in Go</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-746</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-746</guid>
-            <description>The tutorial walks through it step by step. gopgext uses the same approach as gokm,
-which builds Linux kernel modules from Go: a custom TinyGo target and runtime
-layer for the host, a C runtime compiled by the host’s own build system
-(PGXS here, kbuild there), and generated glue....</description>
-        </item>
-        <item>
-            <title>Jensen Huang's fall is bad news for Silicon Valley's accelerationists</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-745</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-745</guid>
-            <description>Article URL: https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists
-Comments URL: https://news.ycombinator.com/item?id=50591835
-Points: 79
-# Comments: 72. Article URL: https://www.economist.com/business/2026/11/19/jensen-...</description>
-        </item>
-        <item>
-            <title>Latest Update: Inkling-2-Mini in 5.4 GB Memory</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-744</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-744</guid>
-            <description>Sources indicate that lookAtMyQuant is a quantization compiler. It measures how much each stored piece of a model hurts the output when compressed. It then picks a code for each piece so the whole model fits a size budget with the least damage. According to recent reports, on Gem...</description>
-        </item>
-        <item>
-            <title>QCon San Francisco 2026: Scaling Tech by Aligning Humans</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-743</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-743</guid>
-            <description>InfoQ Homepage
-News
-QCon San Francisco 2026: Scaling Tech by Aligning Humans. Nov 21, 2026
-								
-								
-								
-									
-									3
-									min read. According to recent reports, at QCon San Francisco 2026, Scott Behrens, Principal Security Engineer at Netflix, presented ...</description>
-        </item>
-        <item>
-            <title>Why Do We Fear Results We Can Predict More Than Opinions We Can Never Know?</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-742</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-742</guid>
-            <description>Sometimes, the things we can measure scare us more than the things we may never understand. According to recent reports, you meet hundreds of people throughout your life. Every person forms some kind of impression of you. Some may find you interesting, some may find you boring, a...</description>
-        </item>
-        <item>
-            <title>Breaking: I built a free PWA so my family would stop texting about milk</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-741</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-741</guid>
-            <description>The family group chat is not a shopping list. I built Basket, a free PWA: one shared list the whole household updates in real time. Add it at home, tick it off at the store, no double buying. Also private groups, task lists and photos on items. 🎬 See it in 2 minutes: https://yout...</description>
-        </item>
-        <item>
-            <title>Building a reusable read more toggle button</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-740</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-740</guid>
-            <description>In a recent development, A bio on a wedding site, a long review on a poster page, a description on a dashboard card. Three places, one pattern: a boolean, a button, a slice of text. Each copy had drifted a little, different truncation lengths, different labels, one missing the co...</description>
-        </item>
-        <item>
-            <title>Is It Safe to Paste a JWT Into an Online Decoder? A 10-Second Check</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-739</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-739</guid>
-            <description>The payload isn't secret, but the token is. Here is how to decode a JWT without handing your session to a stranger. You are debugging a login bug. The request fails, you copy the Authorization header, search "JWT decoder online", and paste the token into the first result. It take...</description>
-        </item>
-        <item>
-            <title>CVE-2026-114835: An Operating Model for a Critical Console Fix</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-738</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-738</guid>
-            <description>Sources indicate that an emergency patch becomes easier to defend when the work follows a repeatable operating model. CVE-2026-114835 is an Oracle Access Manager Admin Console vulnerability in versions 12.2.1.4.0 and 14.1.2.1.0. It has a CVSS 3.1 score of 10.0, an unauthenticated...</description>
-        </item>
-        <item>
-            <title>My first website was ugly, and it worked</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-737</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-737</guid>
-            <description>It has been revealed that my uncle gave our family a monitor when I was a kid, a huge beige box that sat next to our dial-up modem. Every night I sat through the screech and waited while pages loaded one strip at a time, and somewhere in those slow evenings I decided I wanted to ...</description>
-        </item>
-        <item>
-            <title>Small Organization Rides Anthropic Hype With A $657K AI Bet, Not $800M</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-736</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-736</guid>
-            <description>It has been revealed that genius Group, a small education company listed in New York, is telling shareholders that Anthropic is now the biggest holding in its AI investment pot after Anthropic's record IPO. The catch: the only purchase it has disclosed for that pot so far is $657...</description>
-        </item>
-        <item>
-            <title>Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-735</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-735</guid>
-            <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilit...</description>
-        </item>
-        <item>
-            <title>AutoSSL Quietly Dropped the Mail Name — a Cloudflare-Only Origin and the Move to DNS-01</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-734</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-734</guid>
-            <description>A field story about a cPanel certificate that renewed on time and still broke every Outlook client — the port 80 rule almost nobody connects to mail — and the DNS-01 setup I now use for any origin locked to Cloudflare. The message came in the next morning. “Outlook is showing a c...</description>
-        </item>
-        <item>
-            <title>Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-733</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-733</guid>
-            <description>Signal has revealed that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is "incomplete.". The feature applies to agentic systems built into iOS 27 and on A...</description>
-        </item>
-        <item>
-            <title>Grafana 13.3 Adds Shared Dashboard Variables and Notebooks</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-732</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-732</guid>
-            <description>InfoQ Homepage
-News
-Grafana 13.3 Adds Shared Dashboard Variables and Notebooks. Nov 21, 2026
-								
-								
-								
-									
-									2
-									min read. Grafana Labs has released Grafana 13.3 with cross-dashboard variables that let teams manage shared dashboard controls in...</description>
-        </item>
-        <item>
-            <title>Your JWT Secret Is Probably Too Weak. Here Is the 30-Second Fix</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-731</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-731</guid>
-            <description>Sources indicate that "secret", "changeme" and "mysupersecretkey" are not keys. They are passwords, and passwords get cracked offline. Open the config of almost any tutorial project and you will find a line like this:. It has been revealed that const token = jwt.sign(payload, 'se...</description>
-        </item>
-        <item>
-            <title>Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-730</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-730</guid>
-            <description>Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence remarked this week. The flaw allows an attacker with no accoun...</description>
-        </item>
-        <item>
-            <title>Why Being Unbiased Sucks: If You Have No Criteria for Respect, Are You Undervaluing People?</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-729</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-729</guid>
-            <description>Everyone deserves respect at the beginning. But should everyone continue receiving the same level of respect regardless of their actions? We're constantly told to respect everyone equally, avoid judging people, and remain unbiased. It sounds morally correct. But what happens when...</description>
-        </item>
-        <item>
-            <title>GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-728</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-728</guid>
-            <description>A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released f...</description>
-        </item>
-        <item>
-            <title>How Instagram Split One Database Into Thousands</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-727</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-727</guid>
-            <description>Two different photos. Two different databases. Both stamped with the same ID: 3. According to recent reports, that's what happens when you split one database into many pieces and every piece counts on its own. Instagram had to split its data early, so it had to solve exactly this...</description>
         </item>
 </channel>
 </rss>
