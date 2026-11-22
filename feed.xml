@@ -4,210 +4,234 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 06:10:33 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:21:36 -0000</lastBuildDate>
     
         <item>
-            <title>Latest Update: Upload2Shell (CVE-2026-125396)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-781</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-781</guid>
-            <description>Ghostscript 10.05.1~dfsg-1+deb13u1. → Read original article...</description>
+            <title>A Better Vocabulary for Testing</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-814</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-814</guid>
+            <description>Contemporary vocabulary for talking about software testing has bothered me for a long time. The concept of a unit in unit test is not really defined,
+integration tests are integrating arbitrarily scoped modules, the concept of an E2E test makes sense, but it very much underspecif...</description>
         </item>
         <item>
-            <title>Pandex – Official European Law for AI Agents, over MCP</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-780</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-780</guid>
-            <description>Legislation and highest-court decisions of the EU and seven European countries, straight from the institutions that publish them, ready for search and AI agents. Works with the AI tools you already use. One API and one MCP server for every jurisdiction we hold. Cour de cassation,...</description>
+            <title>Industry News: Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-813</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-813</guid>
+            <description>Don't rewrite it in Rust. Rewrite the 5% that's slow. Rewriting a whole app in Rust costs months, minute-long compiles and gigabytes of target/. Most of the runtime sits in a few functions anyway. fast-anything finds those functions, has your coding agent port only them to Rust, ...</description>
         </item>
         <item>
-            <title>Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-779</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-779</guid>
-            <description>AI is moving from answering questions to owning work. Join a small team in San Francisco building AI employees that companies can trust with real responsibilities, around the clock. All positions are full-time and in-person in our San Francisco office. Define and build how people...</description>
+            <title>Latest Update: Notes on the discrete Fourier transform (DFT)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-812</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-812</guid>
+            <description>Recent findings suggest that in the previous post on this
+topic,
+weâve seen how the Discrete-Time Fourier Series (DTFS) and transform
+(DTFT) are used to analyze infinite-duration periodic and non-periodic
+discrete signals. Now, itâs time to turn to realistic digital signal
+pr...</description>
         </item>
         <item>
-            <title>Advice for the next 100 Rust GUIs</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-778</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-778</guid>
-            <description>In a recent development, this is a followup to Advice for the next dozen Rust GUIs, published 4.5 years ago. The world is different in many ways, but some of the advice there is still valid. There have been roughly 20 Rust GUI toolkits announced since that blog post (see 2026 sur...</description>
+            <title>87% of the Anthropic power will come from gas and 11% from coal in 2028</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-811</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-811</guid>
+            <description>Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/
+Comments URL: https://news.ycombinator.com/item?id=50597612
+Points: 617
+# Comments: 693. Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered...</description>
         </item>
         <item>
-            <title>PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-777</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-777</guid>
-            <description>Versión en español: README.es.md. According to recent reports, find the network fault in seconds, not hours. Upload a .pcap / .pcapng capture
-(gzip too) and PcapAnalyzer tells you what is failing, why, and what to check next. It runs on your own machine, so captures never leave y...</description>
+            <title>Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-810</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-810</guid>
+            <description>Industry observers note that muru. Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his upcoming, AI-assisted Rust server that aims to provide the best possible tools for r...</description>
         </item>
         <item>
-            <title>Sandwich Simulator</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-776</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-776</guid>
-            <description>Der Stullensimulator braucht JavaScript. Was das hier ist. → Read original article...</description>
+            <title>Testing Terraform with AWS Emulator</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-809</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-809</guid>
+            <description>Terraform initiative passes and reveals all green and all the necessary resource changes. You trigger apply and... the job fails with some obscure error that a resource can't be changed. You open another pull request and try again. And perhaps you encounter an error again. Sounds...</description>
         </item>
         <item>
-            <title>Leonida – PC Recompilation of the Xbox Version of GTA 6</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-775</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-775</guid>
-            <description>Industry observers note that status |
-  How to build |
-  How it works |
-  Want to help? |
-  Credits |
-  License |
-  Discord. Recent findings suggest that leonida is a static recompilation project. The Xbox Series CPU is x86-64 like a PC, so the game's code is loaded
-and run nativ...</description>
+            <title>Industry News: Show HN: I built a game where you are an LLM's subagent</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-808</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-808</guid>
+            <description>A browser game where your manager is an AI agent, and it believes you are its subagent. The manager (a real LLM: Claude, GPT, Gemini, DeepSeek, GLM, Kimi) is set up like any orchestrator. It has a task queue, read-only access to the machine, and a tool that "spawns a subagent". T...</description>
         </item>
         <item>
-            <title>The Mythology of Conscious AI</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-774</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-774</guid>
-            <description>Why consciousness is more likely a property of life than of computation and why creating conscious, or even conscious-seeming AI, is a bad idea. Anil Seth won the 2025 annual Berggruen Prize Essay Competition for his English-language essay, “The Mythology Of Conscious AI.”. Sourc...</description>
+            <title>Backblaze customers worried of personal data sale/sharing after policy update</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-807</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-807</guid>
+            <description>Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-enhancement/
+Comments URL: https://news.ycombinator.com/item?id=50600435
+Points: 78
+# Comments: 38. Article URL: https://www.neowin.net/news/backblaze-customers-worried-...</description>
         </item>
         <item>
-            <title>Building a Rootless Linux Sandbox in Pure Rust — Without Docker or a Daemon</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-773</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-773</guid>
-            <description>If you ever need to run untrusted scripts, test builds, or execute AI-generated code on Linux, the usual options are either spinning up a full Docker container or trusting the process on your host. I wanted something lighter: a single binary and embeddable Rust library that isola...</description>
+            <title>Open Social Web Alliance</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-806</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-806</guid>
+            <description>How do we build social media that strengthens democratic discourse and is both resilient and appealing? The Open Social Web Alliance aims to provide the answers. A shared, standardised communication protocol: it may sound technically complicated, but it is as simple as it is bril...</description>
         </item>
         <item>
-            <title>DeepSeek Flash 與 V4 Pro：該把請求路由到哪個模型？</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-772</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-772</guid>
-            <description>DeepSeek 現在在同一個 OpenAI 相容介面中提供兩個實用的價格級距。deepseek-flash 面向高併發、大批量的工作負載。deepseek-v4-pro 價格較高，應該用在便宜路線無法勝任的任務上，才配得上這份溢價。. 試用 Tokuse： 建立免費帳戶 並透過一個 OpenAI 相容端點送出你的第一個請求。. DeepSeek 公開定價頁面（2026 年 11 月 9 日查閱）列出以下每百萬 token 的離峰價格：. Tokuse 路由這些模型。表格顯示的是 DeepSeek 官方標價；Tokuse 的分組定價可能有所不同。請查看 ...</description>
+            <title>I joined the NTP Pool, but not with my Stratum 1 Pi</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-805</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-805</guid>
+            <description>Before I get too deep into the time-nuts rabbit hole, I figured I should share a little bit of the good time I now have in my studio, with everyone else. Thus, I've finally joined the NTP Pool, offering one public Stratum 2 NTP time server (ntp-01.jeffgeerling.com), which gets it...</description>
         </item>
         <item>
-            <title>Industry News: What Is an IP Address? Explained Simply</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-771</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-771</guid>
-            <description>Originally published on CodingCush. According to recent reports, an IP address is a number that identifies a device on a network, like a house number identifies a house on a street. Every phone, laptop and website server has one, and without it, data would have no idea where to g...</description>
+            <title>Latest Update: Europe weakens chemical rules as science links them to 'lifestyle diseases'</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-804</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-804</guid>
+            <description>Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-highlights-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html
+Comments URL: https://news.ycombinator.com/item?id=50600677
+Points: 107
+# Co...</description>
         </item>
         <item>
-            <title>Tech Report: Data Processing Incidents on Inference Providers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-770</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-770</guid>
-            <description>Earlier this week, security researchers reported that certain inference providers had data compromised or otherwise shown evidence that their data policies were not being upheld. We have been collaborating closely with the researchers and with providers to understand the findings...</description>
+            <title>Industry News: Perplexity and Intelligence</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-803</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-803</guid>
+            <description>By Jakub Pachocki, Chief Scientist at OpenAI. From afar, it might seem like modern AI is built similarly to how software has been built in previous decades: with a diverse set of techniques targeting specific capabilities. There are indeed a variety of methods, but rather than de...</description>
         </item>
         <item>
-            <title>Node.js Queue Design for Webhook Follow-Up Tasks One Hour Later</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-769</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-769</guid>
-            <description>Short answer: for a webhook follow-up that is due one hour later, record a durable obligation keyed by the source event, let workers claim due work, and reserve cron for recurring reconciliation rather than creating a cron entry for each event. In a recent development, the decisi...</description>
+            <title>Tech Report: AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-802</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-802</guid>
+            <description>InfoQ Homepage
+News
+AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU. Nov 22, 2026
+								
+								
+								
+									
+									4
+									min read. It has been revealed that AWS has added GPU support to AWS Lambda: Event Functions runni...</description>
         </item>
         <item>
-            <title>豆包 Seed 2.1 API：Pro/Lite/Turbo 價格與選型</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-768</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-768</guid>
-            <description>Tokuse 已經接入 ByteDance 豆包 Seed 2.1 系列的三個模型，並統一提供 OpenAI 相容介面。對正在控制 AI 成本的團隊來說，這不只是多了一個模型選項，而是多了一組價格梯度：同一套程式碼，可以依照任務在 Pro、Lite、Turbo 之間切換，把能力等級和成本等級分開管理。. 在 Tokuse 上試一下： 建立免費帳號，用一個 OpenAI 相容端點完成第一次請求。. 本文依據 2026 年 11 月 16 日 Tokuse 線上模型目錄，比較 doubao-seed-2-1-pro-260915、doubao-seed-2-...</description>
+            <title>Google Reveals Agent Compute Engine for Secure AI Agent Execution</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-801</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-801</guid>
+            <description>InfoQ Homepage
+News
+Google Announces Agent Compute Engine for Secure AI Agent Execution. Nov 22, 2026
+								
+								
+								
+									
+									2
+									min read. In a recent development, google recently unveiled Agent Compute Engine, a managed service that runs AI agents i...</description>
         </item>
         <item>
-            <title>The Most Popular Car Colors in America</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-767</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-767</guid>
-            <description>White was the most popular car color 30 years ago and it maintains that ranking today. When combined with the prominence of black (23.4%) and gray (22.9%), the top three most popular colors hold 72% of market share for modern car colors. It’s worth noting that silver, the fourth ...</description>
+            <title>Claude Code Has Been Leaking Secrets Through Its "Don't Ask Again" Feature</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-800</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-800</guid>
+            <description>InfoQ Homepage
+News
+Claude Code Has Been Leaking Secrets Through Its "Don't Ask Again" Feature. Nov 22, 2026
+								
+								
+								
+									
+									2
+									min read. It has been revealed that agentic security firm Apiiro found that Claude Code has been exposing secrets ...</description>
         </item>
         <item>
-            <title>When DeepSeek Web Chat Hits Its Limit, Move the Conversation Somewhere It Can Continue</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-766</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-766</guid>
-            <description>After the limit, a long conversation should not be trapped in the chat box. It needs a place where it can continue and become a deliverable. It has been revealed that around November 16, some free users of the DeepSeek app and web chat began seeing limit notices (21jingji report)...</description>
+            <title>A settled payment is not a buyer: splitting probe traffic out of our own paid count</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-799</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-799</guid>
+            <description>Recent findings suggest that this content reflects minia2a as of its publication date and is kept for the record. Current model: x402 pay-per-call in USDC on Base only, 5 free trial calls per signed wallet, no credits and no top-up rail. 2026-11-22 · measured on a live x402 marke...</description>
         </item>
         <item>
-            <title>What Is Machine Learning? Explained Simply for Beginners</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-765</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-765</guid>
-            <description>Originally published on CodingCush. Machine learning is a way of teaching computers to find patterns in examples, instead of giving them step by step rules for everything. You show the computer thousands of labelled examples, it learns the pattern, and then it can guess the answe...</description>
+            <title>Rate-Limited Node.js Webhooks: Idempotent Admission at the Minute Boundary</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-798</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-798</guid>
+            <description>For a cron trigger that runs every minute, the least complex dependable Node.js design is to let a public webhook endpoint admit durable work to a queue, then return; a separate worker consumes that work at the downstream rate. The endpoint must be public enough for the scheduler...</description>
         </item>
         <item>
-            <title>Latest Update: Molecular Fingerprints and Tanimoto Similarity — Worked Examples</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-764</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-764</guid>
-            <description>A chemist can look at two structures and say they look alike. A screening script cannot. It needs a number. A common number is a Tanimoto coefficient computed on a molecular fingerprint. That number is easy to over-interpret. The examples below are responses from SeqChem's public...</description>
+            <title>One Photo, Four Listing Images: A Practical Framework for Sellers</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-797</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-797</guid>
+            <description>Most small sellers can get one decent photo of a product. What they struggle with is the set: the clean main image a marketplace demands, a lifestyle shot that demonstrates the thing in use, a close-up for texture and detail, and a second angle so buyers understand the shape. Fou...</description>
         </item>
         <item>
-            <title>Together.ai: Prompt Leakage for Requests</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-763</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-763</guid>
-            <description>We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026. An unauthorized party downloaded stored prompt samples after a credential for a private repository was exposed in a pu...</description>
+            <title>How AI Can Turn Hundreds of PDF Documents Into Structured Product Data</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-796</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-796</guid>
+            <description>Recent findings suggest that many companies work with large amounts of product-related information every day. Technical datasheets, safety documents, certificates, bills of materials and other files often contain key information about individual products. The problem is that this...</description>
         </item>
         <item>
-            <title>Latest Update: Building an Offline-First Local AI Coding Studio with Rust (PyO3), FastAPI, and Tauri 2.0)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-762</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-762</guid>
-            <description>If you work on proprietary codebases or regulated systems, sending your source code to cloud LLM APIs is often a non-starter. I wanted a local, offline-capable coding assistant that goes beyond a basic chat window—something that can actually index a repository, reason across file...</description>
+            <title>Breaking: What are the best Databricks alternatives for LLM training?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-795</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-795</guid>
+            <description>Industry observers note that if you use Databricks mainly to run LLM training and fine-tuning jobs, the cheapest alternative at list price is Nodus: Databricks AI Runtime lists the NVIDIA H100 at $7.00 per GPU-hour, Nodus lists it at $2.60, so one day on 8 x H100 costs $1,344.00 ...</description>
         </item>
         <item>
-            <title>Notes from scraping 4,400+ Xero, QuickBooks, Zoho &amp; NetSuite apps over plain HTTP (38MB RAM)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-761</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-761</guid>
-            <description>Recent findings suggest that test run qUI9gTtRIHTWhqEbR on our fresh Oracle NetSuite SuiteApp actor finished today in 3 seconds and peaked at 38.1 MB of RAM (30.5 MB average). No Playwright, no Puppeteer, no residential proxy rotation. I've spent the past few days writing HTTP-on...</description>
+            <title>I built a free seating chart maker that never uploads your guest list</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-794</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-794</guid>
+            <description>I'm Dejan. I built a free seating chart maker and I want to be upfront about that. This post is about why I kept the guest list in the browser, and how the tool actually works. Wedding and event seating is a messy puzzle: couples who should stay together, relatives who should not...</description>
         </item>
         <item>
-            <title>IT internships in Sri Lanka: what 466 open roles say (November 2026)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-760</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-760</guid>
-            <description>We run intern.lk, a free site that collects internships and first jobs from companies across Sri Lanka in one place. Because every listing passes through the same pipeline, we can count them. Here is what the open listings on 22 November 2026 say about IT and software internships...</description>
+            <title>GTA 6 and the Open-World Streaming Problem</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-793</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-793</guid>
+            <description>It has been revealed that picture driving towards Vice City in GTA 6. Across the water, you can recognise a hotel long before you can read the sign over its door. Open-world streaming gives that lettering a deadline. It has to be ready by the time you can read it from the road. R...</description>
         </item>
         <item>
-            <title>Toyota, Nissan, and Honda to standardize parts to lower costs</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-759</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-759</guid>
-            <description>Japan’s three largest automakers have agreed to begin standardizing vehicle parts in an effort to reduce costs, according to Automotive News. The outlet reports that Japan Automobile Manufacturers Association chairman Koji Sato, who is also the vice chairman of Toyota, announced ...</description>
+            <title>Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-792</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-792</guid>
+            <description>A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats,...</description>
         </item>
         <item>
-            <title>On‑policy distillation speeds up MoE recovery</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-758</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-758</guid>
-            <description>Treating expert weights as priors cuts the time needed to recover a multi‑teacher student after a distribution shift by roughly half. The shortcut comes from jointly learning mixing coefficients and student parameters while keeping the experts fixed as priors, allowing cheap upda...</description>
+            <title>Latest Update: Unknown TXT Ownership: 4 Python Gates Before Cleaning Stale Vendor Records</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-791</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-791</guid>
+            <description>Keep an apparently stale verification TXT record until someone can show that its dependency has ended. Clean up records with an accountable owner and deletion evidence through a separate change. For a marketplace's internal DNS admin console, that rule keeps uncertain housekeepin...</description>
         </item>
         <item>
-            <title>Breaking: Rackspace Spot breach let hackers access customer Kubernetes secrets</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-757</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-757</guid>
-            <description>According to recent reports, rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]. → Read original article...</description>
+            <title>PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-790</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-790</guid>
+            <description>InfoQ Homepage
+News
+PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls. Nov 22, 2026
+								
+								
+								
+									
+									2
+									min read. According to recent reports, the PostgreSQL Global Development Group released PostgreSQL 19, introdu...</description>
         </item>
         <item>
-            <title>I'm quite pleased by the tech architecture of my art website</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-756</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-756</guid>
-            <description>It is a truth universally acknowledged, that every developer blog begins by explaining the newly introduced static site generator they wrote to make it. This post isnât exactly that, but maybe only on a technicality, in that itâs not about this websiteâ¦. Earlier this year I...</description>
+            <title>Breaking: Human-in-the-Loop AI Agents: Who Approves What</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-789</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-789</guid>
+            <description>Recent findings suggest that "Human in the loop" is easy to say and easy to get wrong. Put the person on every step and the AI saves nobody any time. Put the person nowhere and the first wrong refund lands on your bank statement. The useful question is narrower: which decisions d...</description>
         </item>
         <item>
-            <title>Surprisingly Adorable Insect Portraits</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-755</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-755</guid>
-            <description>Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/
-Comments URL: https://news.ycombinator.com/item?id=50586648
-Points: 127
-# Comments: 26. Article URL: https://amateurphotographer.com/latest/these-a...</description>
+            <title>Industry News: OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-788</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-788</guid>
+            <description>Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity tech giant Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is su...</description>
         </item>
         <item>
-            <title>Industry News: RCE in Gnupg</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-754</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-754</guid>
-            <description>In a recent development, messages sorted by:
-[ date ]
-[ thread ]
-[ subject ]
-[ author ]
-
-
-
-
-Hello! We are pleased to announce the availability of a new GPGME release:
-version 2.3.1. This version fixes a *critical security bug* found in
-all prior versions. We also release a new Gp...</description>
+            <title>Building a WhatsApp AI assistant for Moroccan businesses (Darija) with Next.js, Supabase and Claude</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-787</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-787</guid>
+            <description>Recent findings suggest that most small businesses in Morocco take orders on WhatsApp. The owner reads every message, types the menu again and again, and misses messages at night. I wanted to see how far a small, cheap AI assistant could go for them, so I built one that answers i...</description>
         </item>
         <item>
-            <title>Industry News: My monitor was cutting my download speed by 75%</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-753</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-753</guid>
-            <description>Sources indicate that somehow I am one of those few very lucky people to have the opportunity of owning a 2.5 gig symmetrical line for my internet. But one day, when I wanted to brag to my equally nerdy friends, shock and horror: 600 Mbps down? Luckily my upload speed was still 2...</description>
+            <title>Signal to block Siri, Gemini AI from capturing chats on iOS, Android</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-786</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-786</guid>
+            <description>Signal has declared fresh protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]. → Read original article...</description>
         </item>
         <item>
-            <title>Astra 6.2 and Sol 6.2 flop at Simple Bench</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-752</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-752</guid>
-            <description>Where Everyday Human Reasoning Still Surpasses Frontier
-                            Models → Read original article...</description>
+            <title>How an AI Support Agent Learns From Agent Edits</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-785</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-785</guid>
+            <description>Sources indicate that every time a support agent edits an AI draft before sending it, they show the system how the firm actually handles that case. In the 30 days to 19 November 2026, agents in the deployment from our case study edited 19,339 AI drafts. That is the most valuable ...</description>
         </item>
 </channel>
 </rss>
