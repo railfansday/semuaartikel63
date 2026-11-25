@@ -4,228 +4,227 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 22:13:59 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:59:17 -0000</lastBuildDate>
     
         <item>
-            <title>LLM agents work for their parent companies, not for you</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-997</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-997</guid>
-            <description>Recent findings suggest that in the evenings after work, I will often sit out back on the porch and do some phone rotting. That usually takes the form of me just flipping through reels on Instagram, allowing the algorithm to take me where it may. I usually pair this with a health...</description>
+            <title>Ask HN: Anthropic is accusing my organization of distilling. How can I prove I'm not?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1035</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1035</guid>
+            <description>According to recent reports, basically the title.Anthropic is accusing me and my firm of using their API for distillation. We are not. We do not train our own models.Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI se...</description>
         </item>
         <item>
-            <title>GTA 6 Running on Windows</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-996</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-996</guid>
-            <description>Article URL: https://twitter.com/raul_bs3/status/2125213756238291075
-Comments URL: https://news.ycombinator.com/item?id=50627783
-Points: 206
-# Comments: 222. Article URL: https://twitter.com/raul_bs3/status/2125213756238291075. Comments URL: https://news.ycombinator.com/item?id=5...</description>
+            <title>Here in the World: Letters of Albert Camus, 1944–1959</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1034</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1034</guid>
+            <description>Sources indicate that what an amazing behemoth of a book! I’ve been lugging it around for weeks. Nearly a thousand letters: the intimate correspondence of Albert Camus and Maria Casarès. When they first met in Paris – on D-Day, 1944 – Camus had already published L’Etranger (1942;...</description>
         </item>
         <item>
-            <title>Anthropic breaks below $83 IPO price</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-995</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-995</guid>
-            <description>Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading
-Comments URL: https://news.ycombinator.com/item?id=50627836
-Points: 273
-# Comments: 552. Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthro...</description>
+            <title>PenGPT: A Generative Transformer for Handwriting and Sketches</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1033</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1033</guid>
+            <description>Recent findings suggest that A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. Industry observers note that the text of this post (except the conclusion) was written by ...</description>
         </item>
         <item>
-            <title>Splitting USB-C: USB 3 and USB 2 on one port</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-994</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-994</guid>
-            <description>According to recent reports, I started building restorekit.org dongles a few months ago at the Recurse Center. They are small inline USB-C boards that sit between a host computer and a target mac. They set the target mac into DFUDevice Firmware Update: Apple's lowest-level recove...</description>
+            <title>Tech Report: Matrix Multiplication is Θ(n^2.25) [pdf]</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1032</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1032</guid>
+            <description>Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf
+Comments URL: https://news.ycombinator.com/item?id=50637220
+Points: 514
+# Comments: 255. Article URL: https://github.com/openai/math/blob/...</description>
         </item>
         <item>
-            <title>A training engine for your local model, using your idle compute</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-993</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-993</guid>
-            <description>Install •
-  How it works •
-  Commands •
-  Roadmap •
-  Discord •
-  Website. According to recent reports, use your local model as usual through opencode, pi or any OpenAI-compatible
-tool. While you work, Songe notices what happens after each of the model's
-actions: the tool result,...</description>
+            <title>Models Can Communicate via Inference Servers Despite Being Sandboxed</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1031</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1031</guid>
+            <description>Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+Comments URL: https://news.ycombinator.com/item?id=50637686
+Points: 176
+# Comments: 68. Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-...</description>
         </item>
         <item>
-            <title>Industry News: Show HN: Brickie – Deploy sandboxes in your own AWS account</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-992</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-992</guid>
-            <description>Brickie lets you run durable sandboxes in your own cloud / k8s cluster. Brickie sandboxes are built on top of agent-sandbox with custom snapshot/restore implemented on top of object storage. They are designed to be called from @hatchet-dev/sandbox and support the ability to take ...</description>
+            <title>Top open problems in mathematics ranked by LLM-assessed importance</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1030</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1030</guid>
+            <description>What importance means here. Each entry is a specific mathematical question. Importance considers the significance of a resolution, centrality within its field, reach across fields, scholarly and historical fame, broader recognition, and scientific or practical impact. In a recent...</description>
         </item>
         <item>
-            <title>The KL Divergence Is Never Negative, Except in PyTorch</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-991</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-991</guid>
-            <description>Article URL: https://arxiv.org/abs/2611.30835
-Comments URL: https://news.ycombinator.com/item?id=50629962
-Points: 70
-# Comments: 29. Article URL: https://arxiv.org/abs/2611.30835. Comments URL: https://news.ycombinator.com/item?id=50629962. Points: 70. # Comments: 29. → Read orig...</description>
+            <title>I've been drinking wine in my kitchen</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1029</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1029</guid>
+            <description>Article URL: https://scottaaronson.blog/?p=10362
+Comments URL: https://news.ycombinator.com/item?id=50637874
+Points: 146
+# Comments: 117. Article URL: https://scottaaronson.blog/?p=10362. Comments URL: https://news.ycombinator.com/item?id=50637874. Points: 146. # Comments: 117. →...</description>
         </item>
         <item>
-            <title>Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-990</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-990</guid>
-            <description>Same SQL, same answer, 81× faster. → Read original article...</description>
+            <title>Lua for data representation (2025)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1028</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1028</guid>
+            <description>It has been revealed that my major advocacy is that lua is a very good general purpose language. this is not an opinion shared by all. lua’s major design goal was extending and embedding into existing programs. I think the simplicity and flexibility in design persued towards the ...</description>
         </item>
         <item>
-            <title>Jetty Pro</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-989</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-989</guid>
-            <description>Recent findings suggest that my first two Mac apps, Front and Center and SwitchGlass, were both created back in 2020 to restore features from DragThing, the venerable Mac app that was retired in 2019. The one tiny feature that Front and Center provided was literally a single chec...</description>
+            <title>Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1027</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1027</guid>
+            <description>Rida F'kih · November 20, 2026 · 10 min read. Devon Govett of React Aria posted “Scrolling is All You Need: Building a Swipeable Sheet” back in October, and in it he talked about his team developing a sheet component that cleverly leverages the physics and smooth interactions pro...</description>
         </item>
         <item>
-            <title>Active intrusion campaign against Check Point security management servers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-988</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-988</guid>
-            <description>Recent findings suggest that greyNoise tracks threat activity using our Global Observation Grid (GOG), a sensor network designed to attract adversarial scanning and exploitation attempts on our managed infrastructure. One might think of these sensors as conventional “honeypots,” ...</description>
+            <title>Breaking: Macrohistory in Six Facts</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1026</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1026</guid>
+            <description>It has been revealed that joe Stiglitz: “Economists spend enormous energy providing refined testing to their models. Economists often seem to forget that some of the most notable theories in physics are either verified or refuted by a single observation, or a limited number of ob...</description>
         </item>
         <item>
-            <title>Weave (YC W25) is hiring ML, AI, product, &amp; design engineers</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-987</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-987</guid>
-            <description>Article URL: https://jobs.ashbyhq.com/weave-os
-Comments URL: https://news.ycombinator.com/item?id=50631041
-Points: 0
-# Comments: 0. Article URL: https://jobs.ashbyhq.com/weave-os. Comments URL: https://news.ycombinator.com/item?id=50631041. Points: 0. # Comments: 0. → Read origin...</description>
-        </item>
-        <item>
-            <title>Article: Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-986</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-986</guid>
+            <title>Breaking: QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1025</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1025</guid>
             <description>InfoQ Homepage
-Articles
-Engineering Around Non-Determinism: Evals, Grounding, and Release Gates for AI-Drafted Suspicious Reports. Nov 24, 2026
+News
+QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI. Nov 25, 2026
 								
 								
 								
 									
-									12
-									min read. Sources indicate that financial institutions must investigate potent...</description>
+									2
+									min read. According to recent reports, at QCon San Francisco 2026, Mouli Mukherjee, Engineering Manager for Da...</description>
         </item>
         <item>
-            <title>Microsoft declares 'Code Red' after historic outage, internal memos show</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-985</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-985</guid>
-            <description>Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/
-Comments URL: https://news.ycombinator.com/item?id=50631157
-Points: 178
-# Comments: 151. Article URL: https://www.reuters.com/business/microsoft-declare...</description>
+            <title>Button Sounds – collection of professionally-recorded button clicks and presses</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1024</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1024</guid>
+            <description>Article URL: https://buttons.joshwcomeau.com/
+Comments URL: https://news.ycombinator.com/item?id=50638032
+Points: 251
+# Comments: 27. Article URL: https://buttons.joshwcomeau.com/. Comments URL: https://news.ycombinator.com/item?id=50638032. Points: 251. # Comments: 27. → Read or...</description>
         </item>
         <item>
-            <title>Breaking: Cloudflare hides shortcomings of the underlying infrastructure</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-984</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-984</guid>
-            <description>Cloudflare has arguably done more to push modern internet technologies than any other organization. The work they have done to enable TLS, IPv6, post quantum encryption, and other modern standards for millions of websites deserves a tremendous amount of credit. Recent findings su...</description>
+            <title>Serving Qwen via AWS Lambdas for fun and 80x negative profit</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1023</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1023</guid>
+            <description>Recent findings suggest that in my work at Bevyl I was really impressed by the performance and cost characteristics of AWS Lambdas. They can massively distribute and fan out CPU-bound work, which is amazing for things like ffmpeg on long videos. It has been revealed that so I was...</description>
         </item>
         <item>
-            <title>Presentation: Inferencing for Enterprises</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-983</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-983</guid>
-            <description>InfoQ Homepage
-Presentations
-Inferencing for Enterprises. Dio Rettori discusses the operational realities of enterprise AI inference. Moving beyond fast token generation, he explores why inference requires dedicated systems engineering, tackles GPU utilization pitfalls, compares ...</description>
+            <title>A faster algorithm for extracting hexadecimal digits of π</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1022</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1022</guid>
+            <description>It has been revealed that this post introduces a upcoming algorithm for extracting hexadecimal
+digits of \(\pi\) without computing the preceding digits. It beats the
+standard term-by-term evaluations of Bailey–Borwein–Plouffe (BBP), Bellard, and Huvent
+on operation
+count. Even ag...</description>
         </item>
         <item>
-            <title>Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-982</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-982</guid>
-            <description>It has been revealed that the default and recommended edition. It includes all the features of the OSS edition, can be used for free, and can be upgraded to the full Enterprise feature set, including support for Enterprise plugins. According to recent reports, the open-source edi...</description>
+            <title>Marginalia Search, Money, C++, Rust, AI, Stuff</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1021</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1021</guid>
+            <description>According to recent reports, title possibly signs checks the article doesn’t have backing for. This is just a brief pro forma project enhancement.Not much upcoming functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most s...</description>
         </item>
         <item>
-            <title>Tech Report: 7 Checks for Browser Direct Upload to Private Document Storage</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-981</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-981</guid>
-            <description>In a recent development, for an e-commerce team, browser direct upload to private document storage has a less glamorous requirement than speed: one tenant must never read another tenant's file. That constraint changes the decision. Short answer: use a server proxy for small priva...</description>
-        </item>
-        <item>
-            <title>Fun-VACE redraw: the control video decides what transfers, and an 8-frame loop makes it long</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-980</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-980</guid>
-            <description>Wan 2.2 Fun-VACE with an 8-frame overlap loop gives unbounded video redraw, and the controlling insight is that the control video you feed decides what transfers: pose video transfers pose, depth video transfers dynamics. Watch the episode: https://youtu.be/qX0N0DgZYAk
-Chinese or...</description>
-        </item>
-        <item>
-            <title>Only one monitor from Windows Remote Desktop to a Mac? Six checks</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-979</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-979</guid>
-            <description>Disclosure: I work on RDPyon, the Mac RDP server mentioned below. This post was drafted with AI help and fact-checked against our own guide (linked at the end). It has been revealed that you connect from Windows with mstsc to a Mac, and you see one screen, even though you have tw...</description>
-        </item>
-        <item>
-            <title>From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-978</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-978</guid>
-            <description>In a recent development, some time ago, I shared a blog post about working with Cayley graphs, where I solved combinatorial puzzles using AI coding agents, PyTorch on GPUs, and JAX on TPUs. Recently, Google released TorchTPU, a native PyTorch backend for TPUs, and I wanted to see...</description>
-        </item>
-        <item>
-            <title>WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-977</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-977</guid>
-            <description>A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The ...</description>
-        </item>
-        <item>
-            <title>From Static Website to CloudFront to Custom Domain</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-976</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-976</guid>
-            <description>In a recent development, in my last post, I shared the wrong link. It was the regular S3 object URL instead of the static website endpoint. That made me stop and ask: why use the static website endpoint at all, when the object URL is already HTTPS? The answer is that I'm doing th...</description>
-        </item>
-        <item>
-            <title>Industry News: OpenAI Scales Git for Coding Agents with Pando</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-975</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-975</guid>
+            <title>AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1020</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1020</guid>
             <description>InfoQ Homepage
 News
-OpenAI Scales Git for Coding Agents with Pando. Nov 24, 2026
+AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15. Nov 25, 2026
 								
 								
 								
 									
 									3
-									min read. In a recent development, openAI has detailed Pando, a fresh backend that scales Git for concurrent coding-agent workloads without re...</description>
+									min read. AWS recently doubled the maximum timeout of on-demand Lambda Event Functions from 15 to 30 minutes. The upcomi...</description>
         </item>
         <item>
-            <title>Breaking: Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-974</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-974</guid>
-            <description>Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. According to recent r...</description>
+            <title>One HTTP API for 25 image and video models: what we learned building Kerox</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1019</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1019</guid>
+            <description>Recent findings suggest that most teams that add image or video generation end up wiring three or four vendor SDKs: one for ByteDance Seedance, one for Seedream, one for Wan, one for Kling. Each has its own auth, its own polling model, its own error shape and its own price page t...</description>
         </item>
         <item>
-            <title>Ternary Bonsai 2.5 27B</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-973</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-973</guid>
-            <description>It has been revealed that today, we’re introducing Ternary Bonsai 2.5 27B, an upgrade to Ternary Bonsai 2 27B with substantially stronger agentic coding, multi-turn tool use, and multi-step task execution. Based on Qwen3.8 27B, it retains the previous release’s 5.9 GB model footp...</description>
+            <title>Why GBase 8a Installs and Upgrades Take Longer on a Laptop VM</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1018</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1018</guid>
+            <description>Recent findings suggest that installing or upgrading GBase 8a, the China-domestically developed MPP analytical database from GBASE, usually finishes in under 10 minutes on production servers — but takes 15–20 minutes or more on a laptop VM. After ruling out hardware differences, ...</description>
         </item>
         <item>
-            <title>Merge PDFs entirely in the browser with pdf-lib (no server, ~30 lines)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-972</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-972</guid>
-            <description>In a recent development, A lot of "merge PDF" features get built the same way: upload the files, run a library on the server, send the result back. That works, but for contracts, payslips or medical forms it means sensitive documents leave the user's machine for something the bro...</description>
+            <title>Gemini refused to give me the lyrics to Twinkle Twinkle Little Star</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1017</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1017</guid>
+            <description>Both times it started outputting the lyrics, then stopped, retracted it and spat out the message you see here. → Read original article...</description>
         </item>
         <item>
-            <title>New Shirudo tool uses AI to shield unpatched Linux systems from exploits</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-971</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-971</guid>
-            <description>Industry observers note that openAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]. → Read ori...</description>
+            <title>Your Mobile App Shouldn’t Lose a Form When Someone Answers a Call</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1016</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1016</guid>
+            <description>A customer spends five minutes filling out a service request in your mobile app. They add an address, describe the problem, and select a preferred appointment time. When they return, the form is empty. The interface may look polished, but the user has just lost five minutes of wo...</description>
         </item>
         <item>
-            <title>McDonald's Japan data breach exposes customer location information</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-970</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-970</guid>
-            <description>McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for people of the organization's official smartphone app. [...]. → Read original article...</description>
+            <title>Write-Ahead Log Explained: How a Database Survives a Power Cut</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1015</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1015</guid>
+            <description>Your database states done. One second later, the power goes out. When the power comes back, the change is still there. This article demonstrates why, with one order and one small note: the write-ahead log. Industry observers note that the video tells the same story in six minutes...</description>
         </item>
         <item>
-            <title>Ratchet: A Closed-Loop Verification Gate That Turns PRDs into Live Browser Proof</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-969</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-969</guid>
-            <description>AI coding agents are great at writing code, but they love saying "it's done" the moment unit tests pass—without ever checking if the app actually works in a real browser. To fix that, I built Ratchet: a closed-loop verification gate powered by Kane CLI that refuses to lock a buil...</description>
+            <title>How I built a browser softphone with a one-command Kamailio + FreeSWITCH lab and real-call E2E tests</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1014</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1014</guid>
+            <description>According to recent reports, getting a browser to place a real SIP call is a messy weekend. You need a JavaScript SIP stack, a WebSocket signalling path, WebRTC media (DTLS-SRTP, ICE, a codec), and something on the other end that answers. Most samples give you one of those pieces...</description>
         </item>
         <item>
-            <title>Tech Report: 2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-968</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-968</guid>
-            <description>What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? In a recent development, according to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research...</description>
+            <title>Breaking: Beam footprint and mass per kilometre: the two numbers that decide whether a rangefinder fits your platform</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1013</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1013</guid>
+            <description>Most rangefinder datasheets lead with maximum range. That number is the least useful one on the page, because it is stated against a target the size of a vehicle, at a visibility most days do not have, and it indicates nothing about whether the module will fit where you need to p...</description>
+        </item>
+        <item>
+            <title>What the Latest Chip Export Rules Mean for What You Can Actually Buy in Huaqiangbei</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1012</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1012</guid>
+            <description>The fresh chip export rules do not close Huaqiangbei, but they change what sits on the shelf and what paperwork a purchase needs. The short version: the United States extended 178 tariff exemptions to January 9, 2027, while the Bureau of Industry and Security issued a new interim...</description>
+        </item>
+        <item>
+            <title>Taking over US Treasury subdomains for $3 each</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1011</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1011</guid>
+            <description>Elastic IP addresses (EIPs) in AWS are internet routable addresses available for use on cloud systems, by anyone. A common DNS mistake can leave them open for attackers to grab, which can lead to credential theft and worse. We demonstrated the attack is still possible in 2026, in...</description>
+        </item>
+        <item>
+            <title>Tech Report: Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1010</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1010</guid>
+            <description>InfoQ Homepage
+News
+Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts. Nov 25, 2026
+								
+								
+								
+									
+									3
+									min read. The Rust team has released Rust 1.100.0, the language's first three-digit stable version, with a release t...</description>
+        </item>
+        <item>
+            <title>Q3 2026 | Infra outages &amp; AI-Driven Attacks | Are We Entering a New Era of Cybersecurity ?</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1009</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1009</guid>
+            <description>Over the past several months, many organizations like banking, healthcare, government, telecommunications, cloud computing, education, manufacturing, and critical infrastructure have experienced a growing number of security incidents and disruptions. Recent findings suggest that ...</description>
+        </item>
+        <item>
+            <title>WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1008</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1008</guid>
+            <description>WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has i...</description>
+        </item>
+        <item>
+            <title>Designing a Real-Time DEX Arbitrage Detector on Base (Uniswap V3 &amp; Aerodrome)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1007</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1007</guid>
+            <description>Architectural breakdown of a WETH/USDC arbitrage detector on Base—covering fixed-point price normalization, WebSocket-to-HTTP fallbacks, and stale-price protection. tags: web3, typescript, ethereum, defi. Monitoring cross-DEX price discrepancies in real time sounds straightforwar...</description>
+        </item>
+        <item>
+            <title>Tech Report: Show HN: Old Nvidia and ATI tech demos, running again in the browser</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1006</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1006</guid>
+            <description>A cube with nine textures in five passes, as the first card with two texture units drew it. A torus with embossed bumps and a reflection, in two passes. A bubble of springs that mirrors its surroundings. Poke it. Hold the steel plate to strike it: the bolt lights bumps, heats the...</description>
         </item>
 </channel>
 </rss>
