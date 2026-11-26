@@ -4,228 +4,227 @@
     <title>Portal Berita Interaktif - Latest News Feed</title>
     <link>https://railfansday.github.io/semuaartikel63/</link>
     <description>Daily curated technology, automotive, and business news.</description>
-    <lastBuildDate>Thu, 26 Nov 2026 07:51:23 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:16:44 -0000</lastBuildDate>
     
         <item>
-            <title>Latest Update: Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1156</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1156</guid>
-            <description>Port 2049 sits open on file servers, NAS appliances, build farms and Kubernetes storage nodes. Since 2014, the Linux kernel listening on it has let anyone who can reach it write into kernel memory before logging in. We pointed OpenSec's Antara at it. It came back with a root shel...</description>
+            <title>OpenAI may be in cost control mode</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1209</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1209</guid>
+            <description>OpenAI’s recent release of Astra 6.2 and Sol 6.2 was widely panned. What happened? Sources indicate that based on our data, it looks like they’ve been tuned for cost savings. Specifically output tokens per task and reasoning tokens per task have dropped. Here is a chart of high-l...</description>
         </item>
         <item>
-            <title>Slow Ubuntu security response times</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1155</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1155</guid>
-            <description>Powered by blists - more mailing lists
-
-Please check out the
-
-Open Source Software Security Wiki, which is counterpart to this
-mailing list. Confused about mailing lists and their use? Read about mailing lists on Wikipedia
-and check out these
-guidelines on proper formatting of yo...</description>
+            <title>Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1208</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1208</guid>
+            <description>On 24 November, Google made its eight Workspace MCP servers generally available and published a upcoming clause in its API terms. From 1 February 2027, any tool that "is or is driven by an AI Agent" must reach Gmail, Drive, Calendar and the rest of Workspace through those servers...</description>
         </item>
         <item>
-            <title>Industry News: The Newly introduced York Times warns photographers not to update Photoshop over AI features</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1154</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1154</guid>
-            <description>An email sent to freelance photographers notes Photoshop’s latest upgrade uses AI ‘in ways that may not be apparent.’. An email sent to freelance photographers says Photoshop’s latest patch uses AI ‘in ways that may not be apparent.’. The New York Times is asking freelance photog...</description>
+            <title>Intel One Mono font (2023)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1207</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1207</guid>
+            <description>Introducing Intel One Mono, an expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind. It’s easier to read, and available for free, with an open-source font license. Identifying the typographically underserved low-vision devel...</description>
         </item>
         <item>
-            <title>Industry News: Much shorter version of GRH Lean verification from Anthropic</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1153</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1153</guid>
-            <description>It has been revealed that research artifact. Not maintained and not accepting contributions. A Lean 4 proof of the Riemann Hypothesis and of the Generalized Riemann
-Hypothesis for Dirichlet L-functions, built on Mathlib and using only the
-axioms propext, Classical.choice and Quot...</description>
+            <title>Nextcloud Office Desktop app</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1206</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1206</guid>
+            <description>Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/
+Comments URL: https://news.ycombinator.com/item?id=50654289
+Points: 368
+# Comments: 184. Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with...</description>
         </item>
         <item>
-            <title>Deploying a payphone on a tiny Pacific Island for fun and zero profit</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1152</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1152</guid>
-            <description>For the past few years Australia’s Telstra has run a campaign of “Free calls to Santa” from the universal service obligation funded payphones across the country – It’s a really fun idea and we wanted to replicate it on our network on Norfolk Island where we run the mobile network...</description>
+            <title>Tech Report: Head of Software Engineering – NOX Metals</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1205</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1205</guid>
+            <description>Comments URL: https://news.ycombinator.com/item?id=50654353
+Points: 0
+# Comments: 0. Comments URL: https://news.ycombinator.com/item?id=50654353. Points: 0. # Comments: 0. → Read original article...</description>
         </item>
         <item>
-            <title>Bare Metal Qwen</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1151</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1151</guid>
-            <description>A standalone bootable x86-64 operating system that runs Qwen/Qwen3-0.6B directly on hardware or KVM with no Linux, no Windows, no C, no Rust, and no libc. Running live on a diskless (0 GB storage) Proxmox VE VM booted from the hybrid BIOS+UEFI ISO (Intel Xeon E5-2670 v3, 12 cores...</description>
+            <title>Tell HN: Happy Thanksgiving</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1204</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1204</guid>
+            <description>Industry observers note that hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=50655664
+Points: 510
+# Comments: 129. Hopefully it’s a great day spent with your friends and...</description>
         </item>
         <item>
-            <title>Collection of preserved UI style guides</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1150</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1150</guid>
-            <description>This is a collection of preserved UI style guides a.k.a. interface guidelines from various companies, starting from the early 1980s and continuing to today. Recent findings suggest that (Commodore) Amiga was a multimedia personal computer particularly popular in the 1980s and 199...</description>
+            <title>Show HN: Three Linux VMs in a browser tab, each running a different browser</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1203</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1203</guid>
+            <description>Article URL: https://michidk.github.io/sidebyside/
+Comments URL: https://news.ycombinator.com/item?id=50656036
+Points: 86
+# Comments: 22. Article URL: https://michidk.github.io/sidebyside/. Comments URL: https://news.ycombinator.com/item?id=50656036. Points: 86. # Comments: 22. →...</description>
         </item>
         <item>
-            <title>Tell HN: Lots of Ask HNs again</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1149</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1149</guid>
-            <description>There have been questions about why the /ask page (https://news.ycombinator.com/ask) was running dry of Ask HNs - e.g.:Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments)Ask HN: Why is pagination gone on "Ask HN...</description>
+            <title>Breaking: Kagi Watch</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1202</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1202</guid>
+            <description>The screen-free walkie-talkie for the years before a smartphone. No apps, no feed, noÂ strangers. → Read original article...</description>
         </item>
         <item>
-            <title>Minipg: PostgreSQL as a Single Executable</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1148</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1148</guid>
-            <description>[
-about |
-demo |
-using it |
-how it works |
-code |
-warning! |
-links ]. minipg is PostgreSQL as one executable, ready to use, with no server to configure. A .pgdb directory is the database:
-its data, config, credentials, and Postgres version all live inside it,
-and minipg app.pgdb ...</description>
+            <title>Tech Report: NP_R ≠ PAR_R</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1201</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1201</guid>
+            <description>Sources indicate that motivated by the recent breakthrough on the VP vs VNP problem, the consumers (Samuel Everett and Deven Mithal) guided instances of ChatGPT and Claude to develop further, more granular algebraic complexity class separations. This is a work in progress in both...</description>
         </item>
         <item>
-            <title>Breaking: OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1147</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1147</guid>
-            <description>Article URL: https://twitter.com/thsottiaux/status/2125784147889393806
-Comments URL: https://news.ycombinator.com/item?id=50651117
-Points: 172
-# Comments: 88. Article URL: https://twitter.com/thsottiaux/status/2125784147889393806. Comments URL: https://news.ycombinator.com/item?i...</description>
-        </item>
-        <item>
-            <title>Qualcomm's Oryon 3 Reaches the Top</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1146</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1146</guid>
-            <description>Qualcomm’s laptop effort had humble beginnings. Their early Arm-based laptops used cell phone SoCs, and suffered from noticeably poor performance even against lower end Intel chips. But breaking into the PC market was going to be a marathon rather than a sprint, and Qualcomm has ...</description>
-        </item>
-        <item>
-            <title>Industry News: Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1145</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1145</guid>
-            <description>John Lions was teaching operating systems at the University of Upcoming South Wales in Australia. What's the best way toteach operating systems? They need to study the Unix source.But it's tough going. In May 1976, Lions prepared lecture notes explaining the kernel source code of...</description>
-        </item>
-        <item>
-            <title>Tech Report: Moat: Your OpenRouter Replacement</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1144</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1144</guid>
-            <description>In a recent development, command Code Studio needs JavaScript to sign you in and load your account. Turn it on in your browser settings, then reload this page. $5/mo to access the highest quality models at wholesale prices. our large member base pools its usage into hundreds of t...</description>
-        </item>
-        <item>
-            <title>Accordion Icons: Which Work Best?</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1143</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1143</guid>
-            <description>Vitaly Friedman loves beautiful content and doesn’t like to give in easily. When he is not writing, he’s most probably running front-end &amp; UX …
+            <title>Why Your Website Should Never Stop Changing</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1200</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1200</guid>
+            <description>Pierre Burgy is the co-founder and CEO of Strapi, the leading open-source headless CMS, and co-founder of Fimo, a product incubated at Strapi that keeps …
 More about
-Vitaly ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. So what icon is the most reliable to show expansion and co...</description>
+Pierre ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to recent reports, this article has b...</description>
         </item>
         <item>
-            <title>Tech Report: A Spark Of Color In November’s Gray (2026 Wallpapers Edition)</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1142</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1142</guid>
-            <description>According to recent reports, cosima has been an editor at SmashingMag since 2013. Whenever she’s not writing articles for the weekly Smashing Newsletter, she’s probably working on a …
+            <title>Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1199</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1199</guid>
+            <description>Meriem Benhabiles is a Designer specialising in User Experience, with over five years working in-house, agency-side, and independently. Her background in …
 More about
-Cosima ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. November can feel ...</description>
+Meriem ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Recent findings suggest that in organisations ...</description>
         </item>
         <item>
-            <title>Tech Report: Add Google Jobs to career-ops with one portals.yml entry</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1141</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1141</guid>
-            <description>career-ops is an open-source AI job search agent. It scans job sources, scores each posting against your CV, and keeps a tracker. Out of the box it reads company ATS boards (Greenhouse, Ashby, Lever and others). I wanted it to also see Google Jobs, because one Google Jobs search ...</description>
+            <title>Industry News: Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1198</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1198</guid>
+            <description>Shows running iOS simulators in the Finder sidebar so you can drag files in and out of them. According to recent reports, simulators appear when they boot and disappear when they shut down. Everything is
+also reachable from the terminal:. Sources indicate that or download SimDrop...</description>
         </item>
         <item>
-            <title>Modern CSS Might Make Your Front-End More Complex</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1140</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1140</guid>
-            <description>Sources indicate that gabriel is a front-end developer and technical writer. He specializes in HTML, CSS, JavaScript, React, Vue, TailwindCSS, and BootStrap, with a track record of …
+            <title>Industry News: The Many Faces Of September (2026 Wallpapers Edition)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1197</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1197</guid>
+            <description>Cosima has been an editor at SmashingMag since 2013. Whenever she’s not writing articles for the weekly Smashing Newsletter, she’s probably working on a …
 More about
-Gabriel ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. It has been reveal...</description>
+Cosima ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. According to recent reports, for more than 15 y...</description>
         </item>
         <item>
-            <title>Datacenter, IPv6, Residential or Mobile: Which Proxy Do You Actually Need?</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1139</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1139</guid>
-            <description>If you've ever built a scraper that worked perfectly on your laptop and then died on CAPTCHAs in production, or lost a batch of social accounts the day after creating them, the problem was probably the proxy type, not the code. Here's a practical guide to choosing the right one. ...</description>
+            <title>AMD Specific Patches for Llama.cpp</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1196</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1196</guid>
+            <description>Recent findings suggest that tl;dr — I recommend using llama-cpp-rdna-boosts if you have an AMD graphics card. It’s lean, and increased my token generation from 35 to 55 tokens/second, and my prefill from 700 to 1300 tokens per second. YMMV. In a recent development, as of Novembe...</description>
         </item>
         <item>
-            <title>Mirror life is dangerous. Regulators must act before it becomes real</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1138</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1138</guid>
-            <description>Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real
-Comments URL: https://news.ycombinator.com/item?id=50652370
-Points: 4
-# Comments: 0. Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life...</description>
+            <title>The Death Of The Button: Why The Best Interface Is No Interface</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1195</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1195</guid>
+            <description>With over 20 years experience in the field of user centered design, and a background in web design and development, Carrie has worked in startups through to …
+More about
+Carrie ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. That contract is officially changing. Drive...</description>
         </item>
         <item>
-            <title>Deleted Files, Same Full Disk: Inspect APFS Snapshots Before Cleaning</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1137</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1137</guid>
-            <description>tmutil listlocalsnapshots / can return no Time Machine snapshot names while diskutil apfs listSnapshots / still lists an APFS snapshot. We observed that split while verifying the commands for this article. The two results are not contradictory: they have different scopes. A relat...</description>
+            <title>Industry News: YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1194</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1194</guid>
+            <description>Industry observers note that auto-reloads YouTube pages when an ad plays — preserving your playback position. Punish the ads. It has been revealed that ad density on YouTube is channel-dependent and changes over time — some channels front-load several ads, others run none. Tradit...</description>
         </item>
         <item>
-            <title>Tech Report: Making Immersive LLM Chat Experiences More Accessible</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1136</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1136</guid>
-            <description>Eric is a Boston-based designer who helps create straightforward solutions that address a person’s practical, physical, cognitive, and emotional needs. More about
-Eric ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. I have had the privilege of helping to improve the a...</description>
+            <title>Building A UX ROI Case That Survives The Boardroom</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1193</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1193</guid>
+            <description>Alex Williams is a seasoned full-stack developer and the former owner of Hosting Data UK. After graduating from the University of London with a Masters Degree …
+More about
+Alex ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. In a recent development, sooner or later, a...</description>
         </item>
         <item>
-            <title>Smashing AI Conference</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1135</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1135</guid>
-            <description>Sources indicate that I know there’s a lot of AI fatigue out there. I feel it, too. Most of that though is more about the noise surrounding both sides of the hype spectrum. What’s covered way less is context for where it fits best in a development workflow and what sorts of pract...</description>
+            <title>George Whitesides, 1939-2026</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1192</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1192</guid>
+            <description>Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026
+Comments URL: https://news.ycombinator.com/item?id=50657936
+Points: 21
+# Comments: 3. Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026. Comments URL: https://news....</description>
         </item>
         <item>
-            <title>Breaking: Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1134</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1134</guid>
+            <title>Industry News: Stop Treating CSS Container Queries Like Traditional Media Queries</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1191</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1191</guid>
+            <description>I Code. I Write. Meme Rules. Ok, but seriously, I’m a web and mobile developer who writes a lot. In my spare time, I like to build products that would …
+More about
+Victor ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. To be completely honest with you, I missed the ne...</description>
+        </item>
+        <item>
+            <title>.NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1190</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1190</guid>
             <description>InfoQ Homepage
 News
-Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance. Nov 26, 2026
+.NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload. Nov 26, 2026
 								
 								
 								
 									
-									10
-									min read. Microsoft Ignite 2026, held in San Francisco and online from November 17 to 20, centered on running AI...</description>
+									3
+									min read. Microsoft released .NET 11 on 10 November, and .NET MAUI in .NET 11 changes the default runtime...</description>
         </item>
         <item>
-            <title>MCP Failure Alerts: Know When Your MCP Server Breaks</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1133</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1133</guid>
-            <description>It has been revealed that when an AI assistant calls your MCP server and something on your side breaks, nobody tells you. The assistant gets an error, maybe retries, and then tells your user "that didn't work". Your user gives up, and you find out days later, if at all. DocStar's...</description>
+            <title>Tech Report: NestJS SMS OTP Backend: Testing Marketplace Throttling and Recipient Suppression</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1189</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1189</guid>
+            <description>Permit a marketplace verification send only when the backend can retain the reason it was allowed. TL;DR: use SMS OTP delivery and verification inside NestJS two-factor authentication, while keeping throttling, audit logs, recovery codes, and recipient eligibility under applicati...</description>
         </item>
         <item>
-            <title>Breaking: Taming Typography: Building a Modern CSS Reset</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1132</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1132</guid>
-            <description>CSS can now make choices about type that used to sit outside a reset. text-wrap: pretty can prevent a stranded word, container query units can scale a heading to the column it occupies, and text-box can trim the half-leading built into a line box. Some of these features are exper...</description>
+            <title>비트코인의 끝나지 않는 프라이버시 역설: '아주 작은 결제'와 새어 나가는 IP 주소</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1188</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1188</guid>
+            <description>나는 30년 가까이 암호화폐 세계에서 가명성과 프라이버시가 춤추는 모습을 지켜봐 왔다. It has been revealed that 우리는 비트코인의 암호학적 강점, 즉 신원을 직접 드러내지 않고도 거래를 가능하게 하는 능력에 찬사를 보냈다. 하지만 네트워크 계층, 즉 P2P 운영의 핵심 구조는 늘 취약한 부분이었다. 그래서 2026년 11월 26일 목요일에 한 개발자가 "아주 작은 결제만으로도 비트코인 지갑 뒤의 IP 주소를 노출할 수 있다"는 소식을 접했을 때, 놀랍기보다는 오래도록 풀지 못...</description>
         </item>
         <item>
-            <title>Attackers Say 'Hello' to a Different Scale of Cloud Attack</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1131</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1131</guid>
-            <description>Researchers dubbed an attack chain "Greeter" after discovering that attackers deliberately covered their trail by leaving "hello" messages in logs. → Read original article...</description>
+            <title>Show HN: Fuck_data_brokers.py</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1187</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1187</guid>
+            <description>In a recent development, I remove people's data from data brokers. It is one of my main part-time jobs, and it has been a wild ride. According to recent reports, all I want to do is help people. In the world of AI that has become next to impossible. From where I sit, data brokers...</description>
         </item>
         <item>
-            <title>A 15-line Python check for credit-based AI pricing: strategy credits, top-ups and rollover</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1130</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1130</guid>
-            <description>Recent findings suggest that most AI tools now bill in credits. The pricing page shows a monthly fee, but three other numbers decide what you really pay: the cost of one strategy credit, the cost of a top-up credit, and what happens to credits you do not use. Here is a small scri...</description>
-        </item>
-        <item>
-            <title>13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1129</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1129</guid>
-            <description>Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. Industry observers note that "Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundatio...</description>
-        </item>
-        <item>
-            <title>AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1128</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1128</guid>
-            <description>この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。. → Read original article...</description>
-        </item>
-        <item>
-            <title>A Upcoming Community For In-House UX People</title>
-            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1127</link>
-            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1127</guid>
-            <description>Sources indicate that paul is a leader in conversion rate optimisation and user experience design thinking. He has over 25 years experience working with clients such as Doctors …
+            <title>Latest Update: Under Autumn’s Spell (October 2026 Wallpapers Edition)</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1186</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1186</guid>
+            <description>It has been revealed that cosima has been an editor at SmashingMag since 2013. Whenever she’s not writing articles for the weekly Smashing Newsletter, she’s probably working on a …
 More about
-Paul ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. In a recent development, ...</description>
+Cosima ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Industry observers no...</description>
+        </item>
+        <item>
+            <title>Breaking: Quanta RAM e vCPU usar para n8n, Evolution API e Coolify</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1185</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1185</guid>
+            <description>It has been revealed that para rodar Coolify, n8n e Evolution API juntos na mesma VPS Ubuntu, o piso funcional em produção leve é 4 vCPU e 8 GB de RAM (apertado durante builds) e o ponto equilibrado é 6 vCPU, 12 GB de RAM e 200 GB de SSD. Em uma VPS de 4 GB, o primeiro build Dock...</description>
+        </item>
+        <item>
+            <title>Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1184</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1184</guid>
+            <description>InfoQ Homepage
+Presentations
+Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell. Rachel Shalom explains how Dell solved enterprise RAG retrieval failures on internal terminology by fine-tuning open-source embedding models. She discusses data p...</description>
+        </item>
+        <item>
+            <title>Largest 2D Chart library in the world using BUI: BlenderUI</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1183</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1183</guid>
+            <description>BUI Charts is a set of components for BUI. Run this command below to use it in your project. A chart is a component. Write it in rsx! like any other tag, style it with class, and feed it from your own state. When the signal changes, the chart redraws. There are 7 base charts, the...</description>
+        </item>
+        <item>
+            <title>How much RAM and vCPU for n8n, Evolution API and Coolify</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1182</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1182</guid>
+            <description>In a recent development, to run Coolify, n8n and Evolution API together on one Ubuntu VPS, the workable floor for light production is 4 vCPU and 8 GB of RAM (tight during Docker builds) and the balanced sweet spot is 6 vCPU, 12 GB of RAM and 200 GB of SSD. On a 4 GB VPS, the firs...</description>
+        </item>
+        <item>
+            <title>I Audited apify.com 14 Times in 25 Days. The H1 Changed Six Times, the Score Never Moved</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1181</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1181</guid>
+            <description>According to recent reports, I run a visa agency in Bali, and the rest of my week goes into Apify Actors. One of them is an on-page SEO checker: you give it page URLs (or one domain to crawl) and it returns one row per page with the status code, an on-page score from 0 to 100, ev...</description>
+        </item>
+        <item>
+            <title>A Practical Guide To Naming Things</title>
+            <link>https://railfansday.github.io/semuaartikel63/index.html#artikel-1180</link>
+            <guid>https://railfansday.github.io/semuaartikel63/index.html#artikel-1180</guid>
+            <description>According to recent reports, vitaly Friedman loves beautiful content and doesn’t like to give in easily. When he is not writing, he’s most probably running front-end &amp; UX …
+More about
+Vitaly ↬. Weekly tips on front-end &amp; UX.Trusted by 182,000+ folks. Naming is hard. The language ...</description>
         </item>
 </channel>
 </rss>
